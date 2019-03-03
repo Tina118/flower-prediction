@@ -1,0 +1,2001 @@
+PH,Soil_moisture,Soil_type,Temperature,Fertilizer,Flowers
+6.55,74,Loamy,19,10-10-10,Rose
+5.75,61,Loamy,22,10-10-10,Rose
+6.72,75,Loamy,23,12-12-12,Rose
+5.91,58,Loamy,23,12-12-12,Rose
+6.81,66,Loamy,18,10-10-10,Rose
+6.42,62,Loamy,22,10-10-10,Rose
+5.54,57,Loamy,23,12-12-12,Rose
+6.19,54,Loamy,24,10-10-10,Rose
+6.29,53,Loamy,20,10-10-10,Rose
+5.8,58,Loamy,18,12-12-12,Rose
+5.68,58,Loamy,22,10-10-10,Rose
+5.96,73,Loamy,23,10-10-10,Rose
+6.77,67,Loamy,19,12-12-12,Rose
+5.81,75,Loamy,23,12-12-12,Rose
+6.74,68,Loamy,20,10-10-10,Rose
+6.97,70,Loamy,25,12-12-12,Rose
+5.54,61,Loamy,19,12-12-12,Rose
+6.61,64,Loamy,21,10-10-10,Rose
+6.55,61,Loamy,22,10-10-10,Rose
+5.53,58,Loamy,23,10-10-10,Rose
+5.97,54,Loamy,23,10-10-10,Rose
+5.9,57,Loamy,18,12-12-12,Rose
+6.01,52,Loamy,24,12-12-12,Rose
+6.99,56,Loamy,23,10-10-10,Rose
+6.43,56,Loamy,18,10-10-10,Rose
+5.62,71,Loamy,24,12-12-12,Rose
+6.87,73,Loamy,24,12-12-12,Rose
+6.74,60,Loamy,19,12-12-12,Rose
+6.93,74,Loamy,18,12-12-12,Rose
+6.01,69,Loamy,24,10-10-10,Rose
+6.01,61,Loamy,24,10-10-10,Rose
+6.1,59,Loamy,21,10-10-10,Rose
+5.71,57,Loamy,25,10-10-10,Rose
+6.39,50,Loamy,21,12-12-12,Rose
+5.88,56,Loamy,23,10-10-10,Rose
+5.81,57,Loamy,19,10-10-10,Rose
+5.54,70,Loamy,25,10-10-10,Rose
+5.52,75,Loamy,19,12-12-12,Rose
+5.53,61,Loamy,23,10-10-10,Rose
+5.78,74,Loamy,22,10-10-10,Rose
+6.52,66,Loamy,24,10-10-10,Rose
+6.95,60,Loamy,22,10-10-10,Rose
+5.55,70,Loamy,20,10-10-10,Rose
+6.66,55,Loamy,23,10-10-10,Rose
+5.58,66,Loamy,23,10-10-10,Rose
+5.6,72,Loamy,24,12-12-12,Rose
+6.94,54,Loamy,19,10-10-10,Rose
+6.29,66,Loamy,18,12-12-12,Rose
+6.61,53,Loamy,25,10-10-10,Rose
+6.8,58,Loamy,19,12-12-12,Rose
+5.71,56,Loamy,24,10-10-10,Rose
+6.82,53,Loamy,20,12-12-12,Rose
+5.87,53,Loamy,19,12-12-12,Rose
+6.15,59,Loamy,19,10-10-10,Rose
+6.26,54,Loamy,22,12-12-12,Rose
+6.29,71,Loamy,18,12-12-12,Rose
+6.88,68,Loamy,21,10-10-10,Rose
+5.91,53,Loamy,19,10-10-10,Rose
+6.67,50,Loamy,23,12-12-12,Rose
+6.77,69,Loamy,20,12-12-12,Rose
+6.4,73,Loamy,20,12-12-12,Rose
+7,58,Loamy,20,12-12-12,Rose
+5.51,54,Loamy,22,10-10-10,Rose
+5.87,70,Loamy,18,12-12-12,Rose
+6.44,65,Loamy,18,12-12-12,Rose
+6.75,70,Loamy,22,10-10-10,Rose
+5.75,52,Loamy,23,12-12-12,Rose
+5.82,54,Loamy,21,12-12-12,Rose
+6.98,69,Loamy,24,10-10-10,Rose
+6.43,68,Loamy,18,10-10-10,Rose
+6.38,58,Loamy,18,12-12-12,Rose
+5.64,68,Loamy,19,12-12-12,Rose
+6.81,60,Loamy,23,12-12-12,Rose
+6.96,67,Loamy,19,12-12-12,Rose
+6.25,56,Loamy,22,10-10-10,Rose
+6.38,50,Loamy,18,12-12-12,Rose
+5.88,60,Loamy,20,12-12-12,Rose
+6.37,57,Loamy,25,10-10-10,Rose
+5.96,54,Loamy,20,12-12-12,Rose
+6.45,64,Loamy,25,12-12-12,Rose
+6.73,70,Loamy,24,12-12-12,Rose
+5.71,71,Loamy,20,12-12-12,Rose
+5.85,69,Loamy,18,12-12-12,Rose
+5.51,74,Loamy,18,10-10-10,Rose
+5.95,73,Loamy,18,10-10-10,Rose
+6.39,57,Loamy,24,12-12-12,Rose
+5.86,61,Loamy,20,12-12-12,Rose
+5.6,63,Loamy,25,10-10-10,Rose
+5.67,50,Loamy,19,10-10-10,Rose
+6.04,70,Loamy,25,12-12-12,Rose
+6.47,68,Loamy,20,12-12-12,Rose
+6.45,66,Loamy,20,12-12-12,Rose
+6.81,69,Loamy,23,10-10-10,Rose
+6.77,52,Loamy,18,10-10-10,Rose
+6.1,67,Loamy,22,10-10-10,Rose
+6.17,66,Loamy,20,10-10-10,Rose
+6.47,75,Loamy,19,10-10-10,Rose
+6.8,60,Loamy,19,10-10-10,Rose
+6.64,56,Loamy,21,12-12-12,Rose
+5.77,56,Loamy,19,12-12-12,Rose
+5.94,61,Loamy,19,10-10-10,Rose
+5.64,52,Loamy,19,10-10-10,Rose
+6.87,56,Loamy,20,12-12-12,Rose
+6.3,71,Loamy,22,12-12-12,Rose
+6.29,61,Loamy,24,10-10-10,Rose
+5.77,70,Loamy,22,10-10-10,Rose
+5.57,57,Loamy,23,10-10-10,Rose
+6.71,70,Loamy,19,10-10-10,Rose
+6.28,70,Loamy,18,10-10-10,Rose
+5.67,72,Loamy,24,12-12-12,Rose
+6.05,62,Loamy,19,10-10-10,Rose
+6.25,53,Loamy,24,10-10-10,Rose
+5.93,50,Loamy,20,12-12-12,Rose
+6.72,50,Loamy,18,10-10-10,Rose
+7,63,Loamy,21,10-10-10,Rose
+6.25,75,Loamy,22,12-12-12,Rose
+6.61,75,Loamy,18,12-12-12,Rose
+6.76,52,Loamy,18,10-10-10,Rose
+6.87,51,Loamy,19,10-10-10,Rose
+6.39,62,Loamy,22,12-12-12,Rose
+5.68,60,Loamy,20,10-10-10,Rose
+6.64,71,Loamy,23,12-12-12,Rose
+5.52,70,Loamy,24,10-10-10,Rose
+5.69,57,Loamy,24,10-10-10,Rose
+5.89,52,Loamy,19,10-10-10,Rose
+6.13,60,Loamy,19,12-12-12,Rose
+6.78,72,Loamy,23,10-10-10,Rose
+5.6,72,Loamy,22,12-12-12,Rose
+6.15,70,Loamy,18,10-10-10,Rose
+6.07,75,Loamy,25,12-12-12,Rose
+6.11,56,Loamy,23,10-10-10,Rose
+6.42,70,Loamy,20,12-12-12,Rose
+6.98,53,Loamy,20,10-10-10,Rose
+6.52,54,Loamy,24,10-10-10,Rose
+6.59,59,Loamy,19,12-12-12,Rose
+6.36,53,Loamy,20,10-10-10,Rose
+6.06,64,Loamy,24,12-12-12,Rose
+6.59,59,Loamy,25,10-10-10,Rose
+6.54,66,Loamy,21,12-12-12,Rose
+5.71,57,Loamy,24,10-10-10,Rose
+5.61,64,Loamy,25,12-12-12,Rose
+6.24,61,Loamy,20,10-10-10,Rose
+6.28,70,Loamy,22,12-12-12,Rose
+6.33,58,Loamy,22,12-12-12,Rose
+6.25,54,Loamy,23,10-10-10,Rose
+6.2,75,Loamy,21,10-10-10,Rose
+6.62,50,Loamy,19,12-12-12,Rose
+6.73,71,Loamy,20,12-12-12,Rose
+6.82,67,Loamy,21,10-10-10,Rose
+6.22,59,Loamy,21,12-12-12,Rose
+6.74,73,Loamy,24,12-12-12,Rose
+6.16,59,Loamy,18,10-10-10,Rose
+5.79,67,Loamy,18,12-12-12,Rose
+6.97,68,Loamy,18,10-10-10,Rose
+6.67,53,Loamy,22,12-12-12,Rose
+5.56,52,Loamy,20,10-10-10,Rose
+5.54,68,Loamy,22,12-12-12,Rose
+6.26,64,Loamy,18,12-12-12,Rose
+5.61,58,Loamy,18,12-12-12,Rose
+5.9,70,Loamy,25,10-10-10,Rose
+6.94,58,Loamy,21,10-10-10,Rose
+5.81,67,Loamy,20,12-12-12,Rose
+6.1,69,Loamy,21,10-10-10,Rose
+6.68,75,Loamy,21,10-10-10,Rose
+6.02,52,Loamy,25,10-10-10,Rose
+6.01,72,Loamy,23,10-10-10,Rose
+6.94,50,Loamy,21,10-10-10,Rose
+6.66,50,Loamy,25,12-12-12,Rose
+6.96,55,Loamy,22,10-10-10,Rose
+6,73,Loamy,24,10-10-10,Rose
+6.34,56,Loamy,21,10-10-10,Rose
+6.28,70,Loamy,18,10-10-10,Rose
+6.41,71,Loamy,20,12-12-12,Rose
+5.99,50,Loamy,20,12-12-12,Rose
+5.78,65,Loamy,22,12-12-12,Rose
+5.68,58,Loamy,21,12-12-12,Rose
+6.23,50,Loamy,25,12-12-12,Rose
+6.45,69,Loamy,23,12-12-12,Rose
+6.16,64,Loamy,18,12-12-12,Rose
+6.86,72,Loamy,22,10-10-10,Rose
+6.05,73,Loamy,21,12-12-12,Rose
+6.63,59,Loamy,19,12-12-12,Rose
+6.09,75,Loamy,23,12-12-12,Rose
+5.53,60,Loamy,20,10-10-10,Rose
+6.38,69,Loamy,24,10-10-10,Rose
+6.98,54,Loamy,20,10-10-10,Rose
+6.2,60,Loamy,21,12-12-12,Rose
+5.51,58,Loamy,25,12-12-12,Rose
+5.69,52,Loamy,24,10-10-10,Rose
+5.77,53,Loamy,18,10-10-10,Rose
+6.97,54,Loamy,21,12-12-12,Rose
+6.32,68,Loamy,22,12-12-12,Rose
+6.04,50,Loamy,21,10-10-10,Rose
+6.35,52,Loamy,18,10-10-10,Rose
+5.51,73,Loamy,21,12-12-12,Rose
+6.59,66,Loamy,18,10-10-10,Rose
+5.98,62,Loamy,23,10-10-10,Rose
+6.19,51,Loamy,25,12-12-12,Rose
+6.28,50,Loamy,22,10-10-10,Rose
+6.1,65,Loamy,18,10-10-10,Rose
+5.92,67,Loamy,25,10-10-10,Rose
+6.89,52,Loamy,21,10-10-10,Rose
+6.89,65,Loamy,18,12-12-12,Rose
+6.72,68,Loamy,25,12-12-12,Rose
+5.97,54,Loamy,24,10-10-10,Rose
+5.63,72,Loamy,23,10-10-10,Rose
+6.39,53,Loamy,19,10-10-10,Rose
+6.73,73,Loamy,19,12-12-12,Rose
+5.72,58,Loamy,21,10-10-10,Rose
+5.56,57,Loamy,22,12-12-12,Rose
+5.63,59,Loamy,21,12-12-12,Rose
+6.49,53,Loamy,24,10-10-10,Rose
+6.86,60,Loamy,22,12-12-12,Rose
+6.26,59,Loamy,25,12-12-12,Rose
+5.74,55,Loamy,21,12-12-12,Rose
+5.81,58,Loamy,20,10-10-10,Rose
+5.82,67,Loamy,23,12-12-12,Rose
+6.17,71,Loamy,20,10-10-10,Rose
+6.71,59,Loamy,21,10-10-10,Rose
+6.29,56,Loamy,21,12-12-12,Rose
+6.61,51,Loamy,19,10-10-10,Rose
+5.73,62,Loamy,23,12-12-12,Rose
+6.65,60,Loamy,20,10-10-10,Rose
+5.69,61,Loamy,18,10-10-10,Rose
+6.14,63,Loamy,23,10-10-10,Rose
+6.11,58,Loamy,24,12-12-12,Rose
+5.64,75,Loamy,18,10-10-10,Rose
+6,61,Loamy,18,10-10-10,Rose
+6.38,63,Loamy,22,10-10-10,Rose
+6.17,65,Loamy,20,10-10-10,Rose
+6.17,50,Loamy,22,12-12-12,Rose
+6.1,71,Loamy,24,10-10-10,Rose
+6.76,63,Loamy,22,12-12-12,Rose
+6.88,58,Loamy,22,12-12-12,Rose
+6.64,65,Loamy,21,10-10-10,Rose
+6.92,59,Loamy,20,12-12-12,Rose
+6.02,68,Loamy,20,10-10-10,Rose
+5.99,66,Loamy,19,12-12-12,Rose
+6.68,53,Loamy,24,10-10-10,Rose
+5.64,73,Loamy,25,12-12-12,Rose
+6.35,54,Loamy,20,12-12-12,Rose
+6.54,74,Loamy,24,12-12-12,Rose
+5.63,55,Loamy,21,12-12-12,Rose
+6.05,61,Loamy,25,10-10-10,Rose
+6.69,64,Loamy,20,12-12-12,Rose
+6.34,75,Loamy,24,12-12-12,Rose
+6.98,53,Loamy,21,10-10-10,Rose
+5.84,64,Loamy,19,12-12-12,Rose
+6.89,64,Loamy,23,12-12-12,Rose
+6.41,58,Loamy,18,10-10-10,Rose
+5.57,71,Loamy,24,12-12-12,Rose
+6.49,55,Loamy,18,12-12-12,Rose
+6.58,62,Loamy,23,12-12-12,Rose
+5.9,61,Loamy,21,12-12-12,Rose
+6.14,56,Loamy,24,12-12-12,Rose
+5.77,69,Loamy,19,10-10-10,Rose
+6.96,61,Loamy,25,12-12-12,Rose
+6.9,75,Loamy,23,12-12-12,Rose
+5.81,51,Loamy,25,10-10-10,Rose
+6.38,61,Loamy,23,12-12-12,Rose
+5.73,51,Loamy,19,10-10-10,Rose
+5.76,60,Loamy,18,12-12-12,Rose
+6.8,63,Loamy,24,12-12-12,Rose
+6.4,63,Loamy,18,10-10-10,Rose
+5.99,68,Loamy,24,12-12-12,Rose
+5.54,66,Loamy,22,12-12-12,Rose
+6.17,51,Loamy,20,12-12-12,Rose
+6.3,52,Loamy,19,10-10-10,Rose
+5.54,55,Loamy,20,12-12-12,Rose
+6.27,63,Loamy,19,10-10-10,Rose
+5.69,65,Loamy,23,10-10-10,Rose
+5.84,63,Loamy,23,12-12-12,Rose
+6.28,58,Loamy,21,10-10-10,Rose
+5.79,74,Loamy,18,10-10-10,Rose
+6.48,68,Loamy,22,12-12-12,Rose
+6.04,68,Loamy,21,10-10-10,Rose
+5.87,69,Loamy,18,12-12-12,Rose
+5.72,62,Loamy,18,10-10-10,Rose
+6.94,54,Loamy,19,12-12-12,Rose
+6.63,54,Loamy,23,10-10-10,Rose
+6.94,54,Loamy,25,12-12-12,Rose
+5.53,58,Loamy,24,12-12-12,Rose
+5.7,66,Loamy,24,10-10-10,Rose
+6.91,69,Loamy,21,10-10-10,Rose
+6.98,67,Loamy,20,10-10-10,Rose
+6.34,70,Loamy,19,10-10-10,Rose
+5.98,50,Loamy,21,12-12-12,Rose
+6.5,58,Loamy,21,10-10-10,Rose
+5.7,68,Loamy,18,10-10-10,Rose
+6.88,60,Loamy,22,10-10-10,Rose
+6.84,53,Loamy,21,10-10-10,Rose
+6.89,64,Loamy,19,12-12-12,Rose
+5.92,72,Loamy,24,10-10-10,Rose
+5.73,63,Loamy,18,10-10-10,Rose
+6.44,54,Loamy,18,10-10-10,Rose
+5.8,74,Loamy,25,12-12-12,Rose
+6.14,62,Loamy,23,10-10-10,Rose
+6.65,75,Loamy,20,10-10-10,Rose
+6.69,65,Loamy,23,12-12-12,Rose
+5.73,66,Loamy,25,10-10-10,Rose
+6.46,70,Loamy,22,12-12-12,Rose
+5.63,71,Loamy,25,12-12-12,Rose
+6.26,71,Loamy,25,10-10-10,Rose
+6.15,64,Loamy,18,10-10-10,Rose
+5.63,57,Loamy,21,12-12-12,Rose
+6.51,53,Loamy,22,12-12-12,Rose
+6.85,65,Loamy,18,12-12-12,Rose
+6.18,62,Loamy,21,12-12-12,Rose
+5.57,51,Loamy,19,10-10-10,Rose
+6.63,57,Loamy,24,10-10-10,Rose
+5.86,72,Loamy,22,12-12-12,Rose
+5.94,60,Loamy,21,12-12-12,Rose
+6.22,61,Loamy,18,12-12-12,Rose
+6.52,50,Loamy,22,12-12-12,Rose
+5.71,59,Loamy,25,10-10-10,Rose
+6.42,57,Loamy,20,12-12-12,Rose
+6.95,53,Loamy,23,10-10-10,Rose
+6.73,53,Loamy,24,10-10-10,Rose
+6.44,65,Loamy,19,12-12-12,Rose
+6.14,69,Loamy,25,12-12-12,Rose
+5.91,72,Loamy,22,12-12-12,Rose
+6.84,62,Loamy,25,10-10-10,Rose
+5.79,64,Loamy,25,10-10-10,Rose
+6.48,50,Loamy,24,10-10-10,Rose
+5.68,63,Loamy,19,12-12-12,Rose
+6.56,69,Loamy,23,10-10-10,Rose
+6.95,69,Loamy,23,12-12-12,Rose
+6.13,57,Loamy,22,12-12-12,Rose
+5.67,51,Loamy,25,10-10-10,Rose
+5.53,52,Loamy,19,10-10-10,Rose
+5.96,59,Loamy,20,10-10-10,Rose
+5.78,64,Loamy,18,12-12-12,Rose
+5.77,54,Loamy,20,10-10-10,Rose
+5.65,53,Loamy,23,10-10-10,Rose
+6.91,65,Loamy,22,10-10-10,Rose
+6.94,75,Loamy,24,12-12-12,Rose
+5.53,59,Loamy,24,12-12-12,Rose
+5.55,51,Loamy,18,10-10-10,Rose
+6.39,64,Loamy,25,12-12-12,Rose
+6.86,69,Loamy,21,12-12-12,Rose
+6.32,64,Loamy,24,12-12-12,Rose
+6.65,65,Loamy,24,10-10-10,Rose
+6.29,70,Loamy,24,12-12-12,Rose
+6.12,67,Loamy,20,12-12-12,Rose
+6.02,74,Loamy,20,10-10-10,Rose
+5.55,63,Loamy,24,12-12-12,Rose
+6.65,64,Loamy,23,12-12-12,Rose
+6.96,58,Loamy,25,10-10-10,Rose
+6.46,73,Loamy,24,10-10-10,Rose
+6.57,60,Loamy,22,10-10-10,Rose
+5.78,61,Loamy,25,10-10-10,Rose
+5.91,65,Loamy,21,10-10-10,Rose
+6.03,58,Loamy,21,10-10-10,Rose
+6.07,53,Loamy,18,10-10-10,Rose
+5.85,73,Loamy,24,10-10-10,Rose
+6.73,65,Loamy,24,12-12-12,Rose
+6,55,Loamy,20,10-10-10,Rose
+6.14,52,Loamy,25,10-10-10,Rose
+6.06,52,Loamy,19,12-12-12,Rose
+6.08,58,Loamy,23,10-10-10,Rose
+6.76,55,Loamy,21,10-10-10,Rose
+6.34,60,Loamy,21,12-12-12,Rose
+6.79,58,Loamy,24,12-12-12,Rose
+6.31,65,Loamy,24,12-12-12,Rose
+5.95,70,Loamy,18,12-12-12,Rose
+5.72,59,Loamy,19,12-12-12,Rose
+5.65,72,Loamy,25,12-12-12,Rose
+5.79,52,Loamy,23,12-12-12,Rose
+6.17,73,Loamy,22,12-12-12,Rose
+6.09,68,Loamy,19,12-12-12,Rose
+6.52,50,Loamy,19,12-12-12,Rose
+5.71,51,Loamy,25,10-10-10,Rose
+6.46,60,Loamy,24,12-12-12,Rose
+6.41,58,Loamy,24,12-12-12,Rose
+5.74,67,Loamy,25,12-12-12,Rose
+5.6,57,Loamy,20,10-10-10,Rose
+5.77,60,Loamy,23,12-12-12,Rose
+6.22,64,Loamy,18,10-10-10,Rose
+5.52,51,Loamy,25,12-12-12,Rose
+6.44,73,Loamy,24,12-12-12,Rose
+5.65,56,Loamy,19,12-12-12,Rose
+5.91,72,Loamy,24,10-10-10,Rose
+6.57,56,Loamy,19,12-12-12,Rose
+5.75,75,Loamy,25,12-12-12,Rose
+6.13,73,Loamy,19,10-10-10,Rose
+6.6,68,Loamy,23,12-12-12,Rose
+5.82,53,Loamy,18,10-10-10,Rose
+6.72,58,Loamy,20,12-12-12,Rose
+6.26,64,Loamy,20,12-12-12,Rose
+5.62,73,Loamy,24,10-10-10,Rose
+6.37,51,Loamy,20,10-10-10,Rose
+5.52,66,Loamy,20,10-10-10,Rose
+6.17,55,Loamy,18,12-12-12,Rose
+6.9,57,Loamy,22,12-12-12,Rose
+6.07,64,Loamy,23,12-12-12,Rose
+6.62,75,Loamy,18,12-12-12,Rose
+6.09,75,Loamy,22,10-10-10,Rose
+6.27,63,Loamy,24,10-10-10,Rose
+6.55,56,Loamy,18,10-10-10,Rose
+5.91,58,Loamy,18,10-10-10,Rose
+6.69,74,Loamy,22,10-10-10,Rose
+6.38,63,Loamy,18,10-10-10,Rose
+5.52,67,Loamy,20,10-10-10,Rose
+6.69,51,Loamy,19,12-12-12,Rose
+6.9,59,Loamy,22,10-10-10,Rose
+5.75,64,Loamy,18,12-12-12,Rose
+5.69,71,Loamy,21,12-12-12,Rose
+6.95,68,Loamy,24,12-12-12,Rose
+5.88,53,Loamy,22,12-12-12,Rose
+5.92,56,Loamy,21,10-10-10,Rose
+6.82,55,Loamy,24,12-12-12,Rose
+6.76,65,Loamy,20,10-10-10,Rose
+6.73,62,Loamy,18,12-12-12,Rose
+6.12,71,Loamy,18,10-10-10,Rose
+5.68,55,Loamy,18,12-12-12,Rose
+6.49,51,Loamy,19,12-12-12,Rose
+6.1,64,Loamy,25,12-12-12,Rose
+6.52,69,Loamy,22,10-10-10,Rose
+6.31,71,Loamy,21,12-12-12,Rose
+5.9,56,Loamy,19,10-10-10,Rose
+6.26,52,Loamy,18,12-12-12,Rose
+6.71,59,Loamy,21,10-10-10,Rose
+5.62,65,Loamy,18,10-10-10,Rose
+5.98,58,Loamy,23,10-10-10,Rose
+6,54,Loamy,20,12-12-12,Rose
+6.03,60,Loamy,22,10-10-10,Rose
+6.83,75,Loamy,20,12-12-12,Rose
+6.88,58,Loamy,21,10-10-10,Rose
+5.88,50,Loamy,22,10-10-10,Rose
+6.18,54,Loamy,20,10-10-10,Rose
+6.7,64,Loamy,20,10-10-10,Rose
+6.53,52,Loamy,21,12-12-12,Rose
+6.08,58,Loamy,22,12-12-12,Rose
+6.05,72,Loamy,23,12-12-12,Rose
+6.52,71,Loamy,25,12-12-12,Rose
+5.74,53,Loamy,23,10-10-10,Rose
+6.86,59,Loamy,23,12-12-12,Rose
+5.99,70,Loamy,20,10-10-10,Rose
+6.01,65,Loamy,21,10-10-10,Rose
+6.58,52,Loamy,25,10-10-10,Rose
+6.03,59,Loamy,22,10-10-10,Rose
+6.43,65,Loamy,24,10-10-10,Rose
+6.35,62,Loamy,24,12-12-12,Rose
+6.96,72,Loamy,21,10-10-10,Rose
+5.85,63,Loamy,25,12-12-12,Rose
+6.52,57,Loamy,20,12-12-12,Rose
+6.96,74,Loamy,23,12-12-12,Rose
+5.65,74,Loamy,25,12-12-12,Rose
+5.93,64,Loamy,20,10-10-10,Rose
+6.91,73,Loamy,20,12-12-12,Rose
+5.75,72,Loamy,24,10-10-10,Rose
+5.51,62,Loamy,22,10-10-10,Rose
+6.07,65,Loamy,23,12-12-12,Rose
+6.21,70,Loamy,24,10-10-10,Rose
+6.73,50,Loamy,18,10-10-10,Rose
+6.7,63,Loamy,18,10-10-10,Rose
+6.06,68,Loamy,25,10-10-10,Rose
+6.44,50,Loamy,22,12-12-12,Rose
+6.82,74,Loamy,21,12-12-12,Rose
+5.55,65,Loamy,24,10-10-10,Rose
+6.83,73,Loamy,18,12-12-12,Rose
+5.57,51,Loamy,18,12-12-12,Rose
+6.2,54,Loamy,18,12-12-12,Rose
+5.93,58,Loamy,18,12-12-12,Rose
+6.46,51,Loamy,19,12-12-12,Rose
+6.05,65,Loamy,20,10-10-10,Rose
+6.56,70,Loamy,22,12-12-12,Rose
+6.49,58,Loamy,22,10-10-10,Rose
+5.89,66,Loamy,25,12-12-12,Rose
+5.55,63,Loamy,21,12-12-12,Rose
+5.6,60,Loamy,24,12-12-12,Rose
+6.85,62,Loamy,23,10-10-10,Rose
+5.98,63,Loamy,22,10-10-10,Rose
+5.55,63,Loamy,22,10-10-10,Rose
+6.33,54,Loamy,21,12-12-12,Rose
+5.52,52,Loamy,21,10-10-10,Rose
+6.54,61,Loamy,18,12-12-12,Rose
+5.69,75,Loamy,21,10-10-10,Rose
+6.84,62,Loamy,18,12-12-12,Rose
+6.37,57,Loamy,24,12-12-12,Rose
+6.56,58,Loamy,21,12-12-12,Rose
+6.79,51,Loamy,25,10-10-10,Rose
+6.05,72,Loamy,23,10-10-10,Rose
+5.81,52,Loamy,24,12-12-12,Rose
+6.33,63,Loamy,24,10-10-10,Rose
+6.58,61,Loamy,21,10-10-10,Rose
+6.49,59,Loamy,24,10-10-10,Rose
+6.56,70,Loamy,25,12-12-12,Rose
+6.44,69,Loamy,21,10-10-10,Rose
+6.06,52,Loamy,21,12-12-12,Rose
+6.17,63,Loamy,22,12-12-12,Rose
+6.73,60,Loamy,21,12-12-12,Rose
+5.52,62,Loamy,19,10-10-10,Rose
+5.64,60,Loamy,18,10-10-10,Rose
+6.5,62,Loamy,25,10-10-10,Rose
+5.9,63,Loamy,20,10-10-10,Rose
+6.75,58,Loamy,25,12-12-12,Rose
+5.78,73,Loamy,25,10-10-10,Rose
+6.85,62,Loamy,23,10-10-10,Rose
+6.81,68,Loamy,22,10-10-10,Rose
+6.28,33,Sandy Loamy,27,10-10-10,Lilies
+5.5,21,Sandy Loamy,26,10-10-10,Lilies
+6.23,21,Sandy Loamy,29,10-10-10,Lilies
+5.72,21,Sandy Loamy,21,10-10-10,Lilies
+5.66,33,Sandy Loamy,22,10-10-10,Lilies
+5.56,32,Sandy Loamy,23,10-10-10,Lilies
+6.38,31,Sandy Loamy,30,10-10-10,Lilies
+5.81,39,Sandy Loamy,27,10-10-10,Lilies
+5.83,32,Sandy Loamy,21,10-10-10,Lilies
+6.17,38,Sandy Loamy,30,10-10-10,Lilies
+5.86,36,Sandy Loamy,29,10-10-10,Lilies
+5.85,22,Sandy Loamy,22,10-10-10,Lilies
+6,21,Sandy Loamy,27,10-10-10,Lilies
+6.49,38,Sandy Loamy,26,10-10-10,Lilies
+6.09,32,Sandy Loamy,27,10-10-10,Lilies
+6.09,40,Sandy Loamy,24,10-10-10,Lilies
+6,25,Sandy Loamy,20,10-10-10,Lilies
+5.59,40,Sandy Loamy,23,10-10-10,Lilies
+6.48,30,Sandy Loamy,28,10-10-10,Lilies
+6.21,25,Sandy Loamy,27,10-10-10,Lilies
+6.28,36,Sandy Loamy,29,10-10-10,Lilies
+6.28,35,Sandy Loamy,22,10-10-10,Lilies
+5.96,34,Sandy Loamy,24,10-10-10,Lilies
+6.27,35,Sandy Loamy,22,10-10-10,Lilies
+6.33,40,Sandy Loamy,28,10-10-10,Lilies
+6.1,33,Sandy Loamy,23,10-10-10,Lilies
+5.73,30,Sandy Loamy,20,10-10-10,Lilies
+6.09,24,Sandy Loamy,27,10-10-10,Lilies
+5.66,21,Sandy Loamy,27,10-10-10,Lilies
+5.67,30,Sandy Loamy,21,10-10-10,Lilies
+5.75,22,Sandy Loamy,24,10-10-10,Lilies
+6.22,35,Sandy Loamy,28,10-10-10,Lilies
+6.32,31,Sandy Loamy,30,10-10-10,Lilies
+5.54,22,Sandy Loamy,28,10-10-10,Lilies
+5.94,27,Sandy Loamy,27,10-10-10,Lilies
+5.6,36,Sandy Loamy,28,10-10-10,Lilies
+6.06,29,Sandy Loamy,27,10-10-10,Lilies
+6.14,24,Sandy Loamy,25,10-10-10,Lilies
+6.29,35,Sandy Loamy,21,10-10-10,Lilies
+5.56,33,Sandy Loamy,21,10-10-10,Lilies
+6.19,28,Sandy Loamy,30,10-10-10,Lilies
+5.54,40,Sandy Loamy,21,10-10-10,Lilies
+5.63,30,Sandy Loamy,24,10-10-10,Lilies
+5.91,37,Sandy Loamy,24,10-10-10,Lilies
+5.99,27,Sandy Loamy,28,10-10-10,Lilies
+6.33,30,Sandy Loamy,21,10-10-10,Lilies
+6.29,39,Sandy Loamy,21,10-10-10,Lilies
+5.73,26,Sandy Loamy,23,10-10-10,Lilies
+6.22,31,Sandy Loamy,21,10-10-10,Lilies
+6.31,31,Sandy Loamy,21,10-10-10,Lilies
+6.12,39,Sandy Loamy,24,10-10-10,Lilies
+6,29,Sandy Loamy,25,10-10-10,Lilies
+6.49,25,Sandy Loamy,26,10-10-10,Lilies
+5.57,38,Sandy Loamy,29,10-10-10,Lilies
+6.26,31,Sandy Loamy,20,10-10-10,Lilies
+6.32,29,Sandy Loamy,27,10-10-10,Lilies
+6.37,30,Sandy Loamy,20,10-10-10,Lilies
+5.81,40,Sandy Loamy,20,10-10-10,Lilies
+6.18,40,Sandy Loamy,21,10-10-10,Lilies
+5.65,31,Sandy Loamy,23,10-10-10,Lilies
+5.83,39,Sandy Loamy,23,10-10-10,Lilies
+5.56,24,Sandy Loamy,29,10-10-10,Lilies
+6.19,24,Sandy Loamy,26,10-10-10,Lilies
+6.18,22,Sandy Loamy,22,10-10-10,Lilies
+5.91,26,Sandy Loamy,24,10-10-10,Lilies
+6.24,35,Sandy Loamy,29,10-10-10,Lilies
+5.78,36,Sandy Loamy,25,10-10-10,Lilies
+5.83,34,Sandy Loamy,25,10-10-10,Lilies
+6.38,36,Sandy Loamy,24,10-10-10,Lilies
+6.46,26,Sandy Loamy,20,10-10-10,Lilies
+6.05,39,Sandy Loamy,27,10-10-10,Lilies
+5.63,37,Sandy Loamy,21,10-10-10,Lilies
+5.91,34,Sandy Loamy,29,10-10-10,Lilies
+5.82,28,Sandy Loamy,25,10-10-10,Lilies
+6.19,35,Sandy Loamy,26,10-10-10,Lilies
+5.72,36,Sandy Loamy,23,10-10-10,Lilies
+5.71,38,Sandy Loamy,22,10-10-10,Lilies
+5.56,27,Sandy Loamy,25,10-10-10,Lilies
+5.94,25,Sandy Loamy,20,10-10-10,Lilies
+6.46,24,Sandy Loamy,27,10-10-10,Lilies
+6.38,28,Sandy Loamy,25,10-10-10,Lilies
+6.34,34,Sandy Loamy,20,10-10-10,Lilies
+6.13,25,Sandy Loamy,21,10-10-10,Lilies
+6.5,31,Sandy Loamy,26,10-10-10,Lilies
+6.24,33,Sandy Loamy,28,10-10-10,Lilies
+5.89,35,Sandy Loamy,25,10-10-10,Lilies
+5.68,34,Sandy Loamy,29,10-10-10,Lilies
+6.42,27,Sandy Loamy,30,10-10-10,Lilies
+6.29,21,Sandy Loamy,29,10-10-10,Lilies
+6.37,40,Sandy Loamy,23,10-10-10,Lilies
+5.92,34,Sandy Loamy,25,10-10-10,Lilies
+6.26,22,Sandy Loamy,30,10-10-10,Lilies
+5.91,31,Sandy Loamy,22,10-10-10,Lilies
+5.81,26,Sandy Loamy,27,10-10-10,Lilies
+5.56,32,Sandy Loamy,22,10-10-10,Lilies
+5.77,33,Sandy Loamy,20,10-10-10,Lilies
+5.74,29,Sandy Loamy,27,10-10-10,Lilies
+6.04,37,Sandy Loamy,29,10-10-10,Lilies
+6.23,28,Sandy Loamy,24,10-10-10,Lilies
+6.43,28,Sandy Loamy,29,10-10-10,Lilies
+5.73,40,Sandy Loamy,26,10-10-10,Lilies
+5.99,40,Sandy Loamy,28,10-10-10,Lilies
+6.49,34,Sandy Loamy,20,10-10-10,Lilies
+5.81,27,Sandy Loamy,25,10-10-10,Lilies
+5.96,37,Sandy Loamy,26,10-10-10,Lilies
+5.98,38,Sandy Loamy,29,10-10-10,Lilies
+6.37,24,Sandy Loamy,20,10-10-10,Lilies
+6.3,38,Sandy Loamy,24,10-10-10,Lilies
+6.49,26,Sandy Loamy,28,10-10-10,Lilies
+5.52,39,Sandy Loamy,26,10-10-10,Lilies
+6.47,34,Sandy Loamy,21,10-10-10,Lilies
+6.32,32,Sandy Loamy,22,10-10-10,Lilies
+6.4,28,Sandy Loamy,28,10-10-10,Lilies
+6.31,21,Sandy Loamy,30,10-10-10,Lilies
+6.07,37,Sandy Loamy,23,10-10-10,Lilies
+5.57,25,Sandy Loamy,22,10-10-10,Lilies
+5.5,38,Sandy Loamy,27,10-10-10,Lilies
+6.05,38,Sandy Loamy,25,10-10-10,Lilies
+5.56,32,Sandy Loamy,27,10-10-10,Lilies
+5.84,27,Sandy Loamy,30,10-10-10,Lilies
+6.41,40,Sandy Loamy,20,10-10-10,Lilies
+6.38,37,Sandy Loamy,26,10-10-10,Lilies
+6.34,35,Sandy Loamy,25,10-10-10,Lilies
+6.44,35,Sandy Loamy,23,10-10-10,Lilies
+5.97,21,Sandy Loamy,20,10-10-10,Lilies
+5.79,25,Sandy Loamy,29,10-10-10,Lilies
+6.41,33,Sandy Loamy,23,10-10-10,Lilies
+5.65,31,Sandy Loamy,21,10-10-10,Lilies
+6.15,26,Sandy Loamy,28,10-10-10,Lilies
+6.35,25,Sandy Loamy,24,10-10-10,Lilies
+5.62,40,Sandy Loamy,28,10-10-10,Lilies
+6.31,25,Sandy Loamy,28,10-10-10,Lilies
+5.89,38,Sandy Loamy,28,10-10-10,Lilies
+6.04,33,Sandy Loamy,28,10-10-10,Lilies
+5.57,28,Sandy Loamy,26,10-10-10,Lilies
+5.81,21,Sandy Loamy,26,10-10-10,Lilies
+5.8,26,Sandy Loamy,26,10-10-10,Lilies
+5.64,33,Sandy Loamy,26,10-10-10,Lilies
+5.86,27,Sandy Loamy,20,10-10-10,Lilies
+5.97,37,Sandy Loamy,21,10-10-10,Lilies
+5.98,31,Sandy Loamy,29,10-10-10,Lilies
+5.97,30,Sandy Loamy,20,10-10-10,Lilies
+6.23,40,Sandy Loamy,24,10-10-10,Lilies
+5.82,25,Sandy Loamy,24,10-10-10,Lilies
+6.22,23,Sandy Loamy,21,10-10-10,Lilies
+6.22,23,Sandy Loamy,27,10-10-10,Lilies
+5.95,21,Sandy Loamy,21,10-10-10,Lilies
+6.01,37,Sandy Loamy,29,10-10-10,Lilies
+5.53,25,Sandy Loamy,26,10-10-10,Lilies
+6.29,21,Sandy Loamy,25,10-10-10,Lilies
+5.78,39,Sandy Loamy,22,10-10-10,Lilies
+6.46,29,Sandy Loamy,27,10-10-10,Lilies
+5.6,28,Sandy Loamy,26,10-10-10,Lilies
+5.99,24,Sandy Loamy,24,10-10-10,Lilies
+6.21,22,Sandy Loamy,26,10-10-10,Lilies
+6.34,25,Sandy Loamy,28,10-10-10,Lilies
+6.36,24,Sandy Loamy,24,10-10-10,Lilies
+5.64,32,Sandy Loamy,26,10-10-10,Lilies
+5.88,26,Sandy Loamy,28,10-10-10,Lilies
+5.93,34,Sandy Loamy,27,10-10-10,Lilies
+6.39,26,Sandy Loamy,22,10-10-10,Lilies
+5.87,35,Sandy Loamy,23,10-10-10,Lilies
+5.88,39,Sandy Loamy,30,10-10-10,Lilies
+6.02,37,Sandy Loamy,23,10-10-10,Lilies
+6.11,30,Sandy Loamy,28,10-10-10,Lilies
+6.31,22,Sandy Loamy,21,10-10-10,Lilies
+6.41,31,Sandy Loamy,20,10-10-10,Lilies
+6.44,36,Sandy Loamy,25,10-10-10,Lilies
+6.3,21,Sandy Loamy,20,10-10-10,Lilies
+6.45,40,Sandy Loamy,26,10-10-10,Lilies
+6.11,24,Sandy Loamy,28,10-10-10,Lilies
+5.56,26,Sandy Loamy,28,10-10-10,Lilies
+6.14,38,Sandy Loamy,24,10-10-10,Lilies
+6.46,27,Sandy Loamy,27,10-10-10,Lilies
+6.07,25,Sandy Loamy,30,10-10-10,Lilies
+5.79,24,Sandy Loamy,28,10-10-10,Lilies
+6.35,31,Sandy Loamy,26,10-10-10,Lilies
+6.37,40,Sandy Loamy,29,10-10-10,Lilies
+5.9,28,Sandy Loamy,22,10-10-10,Lilies
+6.4,23,Sandy Loamy,22,10-10-10,Lilies
+5.89,33,Sandy Loamy,26,10-10-10,Lilies
+5.98,29,Sandy Loamy,26,10-10-10,Lilies
+5.66,37,Sandy Loamy,28,10-10-10,Lilies
+5.82,30,Sandy Loamy,26,10-10-10,Lilies
+6.23,24,Sandy Loamy,28,10-10-10,Lilies
+5.79,23,Sandy Loamy,25,10-10-10,Lilies
+5.53,26,Sandy Loamy,24,10-10-10,Lilies
+5.64,35,Sandy Loamy,23,10-10-10,Lilies
+6.4,21,Sandy Loamy,27,10-10-10,Lilies
+5.77,38,Sandy Loamy,26,10-10-10,Lilies
+5.52,27,Sandy Loamy,29,10-10-10,Lilies
+5.64,22,Sandy Loamy,20,10-10-10,Lilies
+5.75,36,Sandy Loamy,25,10-10-10,Lilies
+6.24,23,Sandy Loamy,28,10-10-10,Lilies
+5.64,27,Sandy Loamy,21,10-10-10,Lilies
+5.57,40,Sandy Loamy,29,10-10-10,Lilies
+6.11,21,Sandy Loamy,24,10-10-10,Lilies
+5.88,34,Sandy Loamy,24,10-10-10,Lilies
+5.74,32,Sandy Loamy,30,10-10-10,Lilies
+6.34,23,Sandy Loamy,25,10-10-10,Lilies
+6.43,31,Sandy Loamy,20,10-10-10,Lilies
+6.33,40,Sandy Loamy,28,10-10-10,Lilies
+6.33,38,Sandy Loamy,30,10-10-10,Lilies
+6.18,30,Sandy Loamy,22,10-10-10,Lilies
+6.14,29,Sandy Loamy,29,10-10-10,Lilies
+6.28,39,Sandy Loamy,21,10-10-10,Lilies
+5.99,38,Sandy Loamy,22,10-10-10,Lilies
+5.52,37,Sandy Loamy,20,10-10-10,Lilies
+6.39,21,Sandy Loamy,21,10-10-10,Lilies
+6.28,35,Sandy Loamy,25,10-10-10,Lilies
+6.06,29,Sandy Loamy,30,10-10-10,Lilies
+6.21,25,Sandy Loamy,29,10-10-10,Lilies
+6.06,21,Sandy Loamy,26,10-10-10,Lilies
+6.03,32,Sandy Loamy,26,10-10-10,Lilies
+5.69,28,Sandy Loamy,29,10-10-10,Lilies
+6.02,26,Sandy Loamy,25,10-10-10,Lilies
+5.87,26,Sandy Loamy,26,10-10-10,Lilies
+6.03,22,Sandy Loamy,21,10-10-10,Lilies
+5.97,25,Sandy Loamy,25,10-10-10,Lilies
+5.83,38,Sandy Loamy,25,10-10-10,Lilies
+5.66,26,Sandy Loamy,30,10-10-10,Lilies
+6.29,28,Sandy Loamy,23,10-10-10,Lilies
+6.24,38,Sandy Loamy,27,10-10-10,Lilies
+6.19,22,Sandy Loamy,20,10-10-10,Lilies
+5.73,36,Sandy Loamy,29,10-10-10,Lilies
+6.2,34,Sandy Loamy,28,10-10-10,Lilies
+6.25,26,Sandy Loamy,20,10-10-10,Lilies
+6.07,24,Sandy Loamy,22,10-10-10,Lilies
+6.11,38,Sandy Loamy,22,10-10-10,Lilies
+6.35,31,Sandy Loamy,27,10-10-10,Lilies
+5.97,39,Sandy Loamy,24,10-10-10,Lilies
+5.74,24,Sandy Loamy,23,10-10-10,Lilies
+5.65,36,Sandy Loamy,21,10-10-10,Lilies
+6.1,39,Sandy Loamy,28,10-10-10,Lilies
+5.6,27,Sandy Loamy,20,10-10-10,Lilies
+6.15,30,Sandy Loamy,20,10-10-10,Lilies
+5.79,27,Sandy Loamy,27,10-10-10,Lilies
+5.99,34,Sandy Loamy,22,10-10-10,Lilies
+6.09,33,Sandy Loamy,25,10-10-10,Lilies
+5.89,28,Sandy Loamy,23,10-10-10,Lilies
+5.9,39,Sandy Loamy,23,10-10-10,Lilies
+5.82,35,Sandy Loamy,25,10-10-10,Lilies
+6.08,30,Sandy Loamy,23,10-10-10,Lilies
+5.82,37,Sandy Loamy,23,10-10-10,Lilies
+6.39,34,Sandy Loamy,23,10-10-10,Lilies
+6.46,21,Sandy Loamy,23,10-10-10,Lilies
+5.68,25,Sandy Loamy,25,10-10-10,Lilies
+5.55,31,Sandy Loamy,29,10-10-10,Lilies
+6.01,35,Sandy Loamy,26,10-10-10,Lilies
+5.82,39,Sandy Loamy,25,10-10-10,Lilies
+5.5,40,Sandy Loamy,30,10-10-10,Lilies
+6.31,37,Sandy Loamy,21,10-10-10,Lilies
+5.66,39,Sandy Loamy,25,10-10-10,Lilies
+6.44,27,Sandy Loamy,23,10-10-10,Lilies
+5.67,38,Sandy Loamy,27,10-10-10,Lilies
+6.1,38,Sandy Loamy,22,10-10-10,Lilies
+6.38,32,Sandy Loamy,23,10-10-10,Lilies
+5.97,23,Sandy Loamy,22,10-10-10,Lilies
+5.98,22,Sandy Loamy,26,10-10-10,Lilies
+6.28,38,Sandy Loamy,23,10-10-10,Lilies
+5.65,31,Sandy Loamy,26,10-10-10,Lilies
+6.22,25,Sandy Loamy,25,10-10-10,Lilies
+5.61,34,Sandy Loamy,25,10-10-10,Lilies
+5.56,21,Sandy Loamy,21,10-10-10,Lilies
+5.58,36,Sandy Loamy,22,10-10-10,Lilies
+5.6,37,Sandy Loamy,30,10-10-10,Lilies
+6.24,23,Sandy Loamy,25,10-10-10,Lilies
+5.54,39,Sandy Loamy,23,10-10-10,Lilies
+6.43,33,Sandy Loamy,25,10-10-10,Lilies
+5.74,40,Sandy Loamy,20,10-10-10,Lilies
+5.74,26,Sandy Loamy,24,10-10-10,Lilies
+5.91,33,Sandy Loamy,23,10-10-10,Lilies
+5.78,29,Sandy Loamy,23,10-10-10,Lilies
+6.1,37,Sandy Loamy,27,10-10-10,Lilies
+5.54,37,Sandy Loamy,28,10-10-10,Lilies
+6.07,26,Sandy Loamy,26,10-10-10,Lilies
+5.95,39,Sandy Loamy,22,10-10-10,Lilies
+5.9,29,Sandy Loamy,21,10-10-10,Lilies
+5.51,31,Sandy Loamy,29,10-10-10,Lilies
+5.71,28,Sandy Loamy,24,10-10-10,Lilies
+5.57,31,Sandy Loamy,22,10-10-10,Lilies
+6.03,21,Sandy Loamy,30,10-10-10,Lilies
+5.64,29,Sandy Loamy,21,10-10-10,Lilies
+5.96,38,Sandy Loamy,30,10-10-10,Lilies
+5.93,26,Sandy Loamy,21,10-10-10,Lilies
+6.33,36,Sandy Loamy,23,10-10-10,Lilies
+5.51,28,Sandy Loamy,20,10-10-10,Lilies
+5.78,34,Sandy Loamy,24,10-10-10,Lilies
+6.22,25,Sandy Loamy,29,10-10-10,Lilies
+5.84,38,Sandy Loamy,24,10-10-10,Lilies
+6.3,23,Sandy Loamy,23,10-10-10,Lilies
+5.62,26,Sandy Loamy,25,10-10-10,Lilies
+5.77,23,Sandy Loamy,29,10-10-10,Lilies
+6.29,39,Sandy Loamy,22,10-10-10,Lilies
+6,37,Sandy Loamy,20,10-10-10,Lilies
+6.01,29,Sandy Loamy,21,10-10-10,Lilies
+6.02,27,Sandy Loamy,21,10-10-10,Lilies
+5.63,36,Sandy Loamy,25,10-10-10,Lilies
+6.27,39,Sandy Loamy,22,10-10-10,Lilies
+5.72,23,Sandy Loamy,29,10-10-10,Lilies
+5.82,39,Sandy Loamy,27,10-10-10,Lilies
+5.9,31,Sandy Loamy,29,10-10-10,Lilies
+6.19,37,Sandy Loamy,21,10-10-10,Lilies
+5.6,25,Sandy Loamy,26,10-10-10,Lilies
+6.14,28,Sandy Loamy,23,10-10-10,Lilies
+5.51,35,Sandy Loamy,23,10-10-10,Lilies
+5.8,34,Sandy Loamy,22,10-10-10,Lilies
+6.42,27,Sandy Loamy,21,10-10-10,Lilies
+6.12,31,Sandy Loamy,26,10-10-10,Lilies
+5.76,35,Sandy Loamy,23,10-10-10,Lilies
+5.99,40,Sandy Loamy,23,10-10-10,Lilies
+5.86,22,Sandy Loamy,22,10-10-10,Lilies
+6.31,37,Sandy Loamy,27,10-10-10,Lilies
+5.9,39,Sandy Loamy,27,10-10-10,Lilies
+6.12,34,Sandy Loamy,20,10-10-10,Lilies
+6.09,31,Sandy Loamy,27,10-10-10,Lilies
+5.88,36,Sandy Loamy,28,10-10-10,Lilies
+6.46,26,Sandy Loamy,26,10-10-10,Lilies
+5.86,21,Sandy Loamy,27,10-10-10,Lilies
+6.44,38,Sandy Loamy,30,10-10-10,Lilies
+5.95,39,Sandy Loamy,23,10-10-10,Lilies
+6.5,28,Sandy Loamy,20,10-10-10,Lilies
+5.81,28,Sandy Loamy,27,10-10-10,Lilies
+5.63,30,Sandy Loamy,23,10-10-10,Lilies
+5.97,23,Sandy Loamy,20,10-10-10,Lilies
+5.91,29,Sandy Loamy,25,10-10-10,Lilies
+6.14,35,Sandy Loamy,21,10-10-10,Lilies
+5.95,23,Sandy Loamy,25,10-10-10,Lilies
+6.45,32,Sandy Loamy,26,10-10-10,Lilies
+5.91,33,Sandy Loamy,25,10-10-10,Lilies
+6.27,24,Sandy Loamy,29,10-10-10,Lilies
+6,39,Sandy Loamy,22,10-10-10,Lilies
+5.99,28,Sandy Loamy,28,10-10-10,Lilies
+5.69,33,Sandy Loamy,26,10-10-10,Lilies
+6.19,40,Sandy Loamy,29,10-10-10,Lilies
+6.44,34,Sandy Loamy,25,10-10-10,Lilies
+5.87,24,Sandy Loamy,23,10-10-10,Lilies
+6.09,23,Sandy Loamy,21,10-10-10,Lilies
+6.22,32,Sandy Loamy,25,10-10-10,Lilies
+5.53,27,Sandy Loamy,28,10-10-10,Lilies
+6.1,31,Sandy Loamy,25,10-10-10,Lilies
+6.41,30,Sandy Loamy,20,10-10-10,Lilies
+6.02,25,Sandy Loamy,20,10-10-10,Lilies
+6.39,37,Sandy Loamy,30,10-10-10,Lilies
+5.68,30,Sandy Loamy,22,10-10-10,Lilies
+5.58,34,Sandy Loamy,22,10-10-10,Lilies
+6.06,23,Sandy Loamy,27,10-10-10,Lilies
+5.54,27,Sandy Loamy,29,10-10-10,Lilies
+6.13,35,Sandy Loamy,28,10-10-10,Lilies
+5.96,39,Sandy Loamy,27,10-10-10,Lilies
+5.87,21,Sandy Loamy,24,10-10-10,Lilies
+5.73,34,Sandy Loamy,27,10-10-10,Lilies
+5.69,36,Sandy Loamy,22,10-10-10,Lilies
+5.62,35,Sandy Loamy,28,10-10-10,Lilies
+5.66,24,Sandy Loamy,30,10-10-10,Lilies
+5.8,40,Sandy Loamy,21,10-10-10,Lilies
+5.97,40,Sandy Loamy,25,10-10-10,Lilies
+5.55,35,Sandy Loamy,27,10-10-10,Lilies
+5.88,38,Sandy Loamy,26,10-10-10,Lilies
+6.29,33,Sandy Loamy,30,10-10-10,Lilies
+5.88,37,Sandy Loamy,21,10-10-10,Lilies
+6.16,29,Sandy Loamy,30,10-10-10,Lilies
+5.91,33,Sandy Loamy,26,10-10-10,Lilies
+6.48,31,Sandy Loamy,26,10-10-10,Lilies
+6.19,35,Sandy Loamy,30,10-10-10,Lilies
+5.95,31,Sandy Loamy,28,10-10-10,Lilies
+5.91,28,Sandy Loamy,21,10-10-10,Lilies
+5.97,35,Sandy Loamy,24,10-10-10,Lilies
+5.63,32,Sandy Loamy,27,10-10-10,Lilies
+5.78,37,Sandy Loamy,30,10-10-10,Lilies
+5.81,29,Sandy Loamy,27,10-10-10,Lilies
+6.31,30,Sandy Loamy,21,10-10-10,Lilies
+5.7,32,Sandy Loamy,24,10-10-10,Lilies
+5.93,22,Sandy Loamy,29,10-10-10,Lilies
+6.33,40,Sandy Loamy,27,10-10-10,Lilies
+6.36,38,Sandy Loamy,26,10-10-10,Lilies
+5.54,26,Sandy Loamy,28,10-10-10,Lilies
+5.88,22,Sandy Loamy,30,10-10-10,Lilies
+6.39,38,Sandy Loamy,27,10-10-10,Lilies
+6.25,23,Sandy Loamy,20,10-10-10,Lilies
+6.15,31,Sandy Loamy,28,10-10-10,Lilies
+5.72,29,Sandy Loamy,30,10-10-10,Lilies
+5.75,40,Sandy Loamy,25,10-10-10,Lilies
+6.29,32,Sandy Loamy,30,10-10-10,Lilies
+6.35,37,Sandy Loamy,28,10-10-10,Lilies
+6.44,21,Sandy Loamy,30,10-10-10,Lilies
+5.88,29,Sandy Loamy,22,10-10-10,Lilies
+5.73,36,Sandy Loamy,28,10-10-10,Lilies
+6.22,40,Sandy Loamy,27,10-10-10,Lilies
+6.46,28,Sandy Loamy,22,10-10-10,Lilies
+6.45,26,Sandy Loamy,27,10-10-10,Lilies
+5.64,31,Sandy Loamy,28,10-10-10,Lilies
+5.7,25,Sandy Loamy,28,10-10-10,Lilies
+5.65,25,Sandy Loamy,30,10-10-10,Lilies
+6.23,33,Sandy Loamy,26,10-10-10,Lilies
+6.32,39,Sandy Loamy,28,10-10-10,Lilies
+6.13,23,Sandy Loamy,21,10-10-10,Lilies
+5.63,22,Sandy Loamy,23,10-10-10,Lilies
+5.67,21,Sandy Loamy,21,10-10-10,Lilies
+5.62,32,Sandy Loamy,27,10-10-10,Lilies
+5.83,40,Sandy Loamy,24,10-10-10,Lilies
+6.33,29,Sandy Loamy,26,10-10-10,Lilies
+6.39,21,Sandy Loamy,27,10-10-10,Lilies
+5.95,22,Sandy Loamy,30,10-10-10,Lilies
+5.52,29,Sandy Loamy,24,10-10-10,Lilies
+5.97,22,Sandy Loamy,29,10-10-10,Lilies
+5.59,24,Sandy Loamy,20,10-10-10,Lilies
+5.56,40,Sandy Loamy,26,10-10-10,Lilies
+5.55,23,Sandy Loamy,23,10-10-10,Lilies
+5.95,29,Sandy Loamy,23,10-10-10,Lilies
+5.91,35,Sandy Loamy,30,10-10-10,Lilies
+6.33,33,Sandy Loamy,30,10-10-10,Lilies
+5.64,35,Sandy Loamy,28,10-10-10,Lilies
+5.58,33,Sandy Loamy,28,10-10-10,Lilies
+5.52,31,Sandy Loamy,29,10-10-10,Lilies
+5.79,22,Sandy Loamy,28,10-10-10,Lilies
+5.67,26,Sandy Loamy,25,10-10-10,Lilies
+5.67,21,Sandy Loamy,24,10-10-10,Lilies
+6.22,37,Sandy Loamy,30,10-10-10,Lilies
+6.25,26,Sandy Loamy,20,10-10-10,Lilies
+6.28,35,Sandy Loamy,29,10-10-10,Lilies
+5.89,31,Sandy Loamy,29,10-10-10,Lilies
+6.29,27,Sandy Loamy,25,10-10-10,Lilies
+5.82,23,Sandy Loamy,27,10-10-10,Lilies
+5.98,39,Sandy Loamy,24,10-10-10,Lilies
+6.01,23,Sandy Loamy,26,10-10-10,Lilies
+5.68,40,Sandy Loamy,26,10-10-10,Lilies
+5.54,26,Sandy Loamy,21,10-10-10,Lilies
+5.51,36,Sandy Loamy,24,10-10-10,Lilies
+5.55,33,Sandy Loamy,30,10-10-10,Lilies
+5.89,38,Sandy Loamy,22,10-10-10,Lilies
+6.21,33,Sandy Loamy,22,10-10-10,Lilies
+5.54,25,Sandy Loamy,28,10-10-10,Lilies
+5.83,30,Sandy Loamy,20,10-10-10,Lilies
+6.15,33,Sandy Loamy,25,10-10-10,Lilies
+5.52,30,Sandy Loamy,30,10-10-10,Lilies
+6.13,31,Sandy Loamy,20,10-10-10,Lilies
+6.24,40,Sandy Loamy,29,10-10-10,Lilies
+6.33,25,Sandy Loamy,29,10-10-10,Lilies
+6.13,37,Sandy Loamy,26,10-10-10,Lilies
+5.61,33,Sandy Loamy,29,10-10-10,Lilies
+5.74,24,Sandy Loamy,24,10-10-10,Lilies
+5.58,30,Sandy Loamy,27,10-10-10,Lilies
+6.01,26,Sandy Loamy,22,10-10-10,Lilies
+5.9,37,Sandy Loamy,26,10-10-10,Lilies
+5.9,39,Sandy Loamy,23,10-10-10,Lilies
+6.15,22,Sandy Loamy,21,10-10-10,Lilies
+6.43,29,Sandy Loamy,30,10-10-10,Lilies
+6.19,22,Sandy Loamy,28,10-10-10,Lilies
+5.51,39,Sandy Loamy,28,10-10-10,Lilies
+6.08,27,Sandy Loamy,20,10-10-10,Lilies
+6.23,31,Sandy Loamy,25,10-10-10,Lilies
+6.07,34,Sandy Loamy,27,10-10-10,Lilies
+5.79,30,Sandy Loamy,23,10-10-10,Lilies
+5.71,31,Sandy Loamy,26,10-10-10,Lilies
+6.27,25,Sandy Loamy,24,10-10-10,Lilies
+5.74,38,Sandy Loamy,24,10-10-10,Lilies
+6.31,28,Sandy Loamy,27,10-10-10,Lilies
+5.52,38,Sandy Loamy,24,10-10-10,Lilies
+6.34,25,Sandy Loamy,27,10-10-10,Lilies
+6.02,32,Sandy Loamy,28,10-10-10,Lilies
+5.7,27,Sandy Loamy,20,10-10-10,Lilies
+5.84,28,Sandy Loamy,30,10-10-10,Lilies
+6.36,36,Sandy Loamy,26,10-10-10,Lilies
+5.51,21,Sandy Loamy,20,10-10-10,Lilies
+6.37,24,Sandy Loamy,20,10-10-10,Lilies
+6.16,36,Sandy Loamy,30,10-10-10,Lilies
+6.2,21,Sandy Loamy,20,10-10-10,Lilies
+6.42,32,Sandy Loamy,20,10-10-10,Lilies
+5.87,21,Sandy Loamy,26,10-10-10,Lilies
+6.35,37,Sandy Loamy,27,10-10-10,Lilies
+6.06,21,Sandy Loamy,29,10-10-10,Lilies
+6.42,36,Sandy Loamy,26,10-10-10,Lilies
+5.53,21,Sandy Loamy,29,10-10-10,Lilies
+6.44,32,Sandy Loamy,20,10-10-10,Lilies
+5.92,39,Sandy Loamy,28,10-10-10,Lilies
+5.79,36,Sandy Loamy,25,10-10-10,Lilies
+6.32,35,Sandy Loamy,24,10-10-10,Lilies
+6,40,Sandy Loamy,30,10-10-10,Lilies
+6.32,39,Sandy Loamy,21,10-10-10,Lilies
+5.85,29,Sandy Loamy,25,10-10-10,Lilies
+5.65,30,Sandy Loamy,30,10-10-10,Lilies
+5.58,40,Sandy Loamy,23,10-10-10,Lilies
+5.62,26,Sandy Loamy,25,10-10-10,Lilies
+6.17,22,Sandy Loamy,27,10-10-10,Lilies
+6.22,24,Sandy Loamy,27,10-10-10,Lilies
+5.72,37,Sandy Loamy,27,10-10-10,Lilies
+5.83,40,Sandy Loamy,30,10-10-10,Lilies
+6.06,23,Sandy Loamy,20,10-10-10,Lilies
+6.16,32,Sandy Loamy,23,10-10-10,Lilies
+5.59,39,Sandy Loamy,23,10-10-10,Lilies
+6.22,26,Sandy Loamy,23,10-10-10,Lilies
+5.63,33,Sandy Loamy,23,10-10-10,Lilies
+5.64,36,Sandy Loamy,24,10-10-10,Lilies
+5.73,23,Sandy Loamy,27,10-10-10,Lilies
+6.34,40,Sandy Loamy,28,10-10-10,Lilies
+5.59,21,Sandy Loamy,29,10-10-10,Lilies
+6.44,27,Sandy Loamy,21,10-10-10,Lilies
+6.47,37,Sandy Loamy,24,10-10-10,Lilies
+6.24,37,Sandy Loamy,24,10-10-10,Lilies
+5.9,7,Dry,14,5-10-10,Cactus
+5.1,1,Dry,13,5-10-10,Cactus
+5.88,16,Dry,15,5-10-10,Cactus
+6.03,0,Dry,15,5-10-10,Cactus
+6.39,20,Dry,12,5-10-10,Cactus
+5.76,3,Dry,14,5-10-10,Cactus
+6.34,4,Dry,12,5-10-10,Cactus
+5.75,12,Dry,10,5-10-10,Cactus
+5.37,6,Dry,15,5-10-10,Cactus
+5.31,15,Dry,11,5-10-10,Cactus
+6.05,9,Dry,10,5-10-10,Cactus
+5.78,13,Dry,13,5-10-10,Cactus
+5.99,2,Dry,13,5-10-10,Cactus
+5.6,13,Dry,15,5-10-10,Cactus
+6.12,17,Dry,10,5-10-10,Cactus
+5.52,4,Dry,12,5-10-10,Cactus
+5.17,17,Dry,15,5-10-10,Cactus
+5.93,20,Dry,10,5-10-10,Cactus
+6.22,2,Dry,12,5-10-10,Cactus
+6.07,6,Dry,11,5-10-10,Cactus
+5.85,0,Dry,10,5-10-10,Cactus
+5.56,4,Dry,13,5-10-10,Cactus
+5.98,20,Dry,15,5-10-10,Cactus
+5.75,18,Dry,12,5-10-10,Cactus
+6.41,18,Dry,13,5-10-10,Cactus
+5.17,5,Dry,14,5-10-10,Cactus
+5.29,1,Dry,15,5-10-10,Cactus
+6.34,13,Dry,10,5-10-10,Cactus
+6.1,16,Dry,12,5-10-10,Cactus
+5.19,4,Dry,12,5-10-10,Cactus
+5.77,0,Dry,10,5-10-10,Cactus
+6.12,11,Dry,11,5-10-10,Cactus
+6.44,3,Dry,12,5-10-10,Cactus
+6.32,13,Dry,11,5-10-10,Cactus
+5.73,4,Dry,12,5-10-10,Cactus
+6.33,6,Dry,11,5-10-10,Cactus
+5.36,11,Dry,14,5-10-10,Cactus
+6.04,11,Dry,11,5-10-10,Cactus
+5.62,2,Dry,15,5-10-10,Cactus
+5.5,13,Dry,14,5-10-10,Cactus
+5.64,17,Dry,15,5-10-10,Cactus
+5.97,16,Dry,13,5-10-10,Cactus
+6.31,3,Dry,12,5-10-10,Cactus
+5.31,18,Dry,10,5-10-10,Cactus
+5.37,17,Dry,15,5-10-10,Cactus
+6.43,1,Dry,14,5-10-10,Cactus
+5.72,1,Dry,13,5-10-10,Cactus
+5.24,13,Dry,13,5-10-10,Cactus
+5.16,12,Dry,14,5-10-10,Cactus
+5.71,0,Dry,13,5-10-10,Cactus
+5.59,9,Dry,12,5-10-10,Cactus
+5.69,16,Dry,14,5-10-10,Cactus
+5.28,7,Dry,15,5-10-10,Cactus
+5.57,8,Dry,12,5-10-10,Cactus
+6.1,19,Dry,12,5-10-10,Cactus
+5.4,10,Dry,15,5-10-10,Cactus
+6.26,6,Dry,15,5-10-10,Cactus
+6.33,17,Dry,12,5-10-10,Cactus
+5.64,7,Dry,14,5-10-10,Cactus
+6.5,0,Dry,10,5-10-10,Cactus
+6.12,13,Dry,15,5-10-10,Cactus
+5.29,11,Dry,13,5-10-10,Cactus
+6.04,8,Dry,15,5-10-10,Cactus
+6.22,3,Dry,14,5-10-10,Cactus
+5.27,10,Dry,14,5-10-10,Cactus
+5.38,17,Dry,14,5-10-10,Cactus
+5.05,10,Dry,14,5-10-10,Cactus
+5.49,11,Dry,13,5-10-10,Cactus
+5.38,5,Dry,13,5-10-10,Cactus
+6.34,2,Dry,12,5-10-10,Cactus
+6.27,13,Dry,10,5-10-10,Cactus
+5.55,16,Dry,14,5-10-10,Cactus
+6.13,2,Dry,13,5-10-10,Cactus
+5.38,11,Dry,10,5-10-10,Cactus
+5.18,0,Dry,11,5-10-10,Cactus
+5.25,2,Dry,15,5-10-10,Cactus
+5.86,6,Dry,12,5-10-10,Cactus
+6.39,10,Dry,15,5-10-10,Cactus
+6.04,3,Dry,12,5-10-10,Cactus
+5.27,19,Dry,11,5-10-10,Cactus
+5.51,16,Dry,12,5-10-10,Cactus
+6.2,5,Dry,11,5-10-10,Cactus
+6.2,0,Dry,14,5-10-10,Cactus
+5.78,8,Dry,14,5-10-10,Cactus
+6.05,5,Dry,15,5-10-10,Cactus
+5.62,3,Dry,13,5-10-10,Cactus
+5.48,5,Dry,10,5-10-10,Cactus
+6.21,18,Dry,15,5-10-10,Cactus
+6.14,1,Dry,10,5-10-10,Cactus
+6.39,2,Dry,11,5-10-10,Cactus
+5.92,6,Dry,15,5-10-10,Cactus
+5.36,11,Dry,13,5-10-10,Cactus
+5.61,6,Dry,11,5-10-10,Cactus
+5.08,19,Dry,11,5-10-10,Cactus
+6.08,11,Dry,13,5-10-10,Cactus
+5.41,1,Dry,10,5-10-10,Cactus
+6.01,4,Dry,11,5-10-10,Cactus
+5.47,16,Dry,13,5-10-10,Cactus
+5.43,13,Dry,10,5-10-10,Cactus
+5.88,3,Dry,12,5-10-10,Cactus
+6.08,18,Dry,15,5-10-10,Cactus
+5.65,15,Dry,13,5-10-10,Cactus
+5.01,4,Dry,15,5-10-10,Cactus
+5.71,7,Dry,14,5-10-10,Cactus
+5.08,16,Dry,10,5-10-10,Cactus
+5.33,3,Dry,12,5-10-10,Cactus
+5.99,4,Dry,14,5-10-10,Cactus
+6.24,19,Dry,12,5-10-10,Cactus
+6.17,7,Dry,14,5-10-10,Cactus
+5.59,9,Dry,12,5-10-10,Cactus
+6.34,0,Dry,15,5-10-10,Cactus
+5.49,15,Dry,11,5-10-10,Cactus
+5.56,8,Dry,15,5-10-10,Cactus
+5.92,16,Dry,12,5-10-10,Cactus
+5.62,10,Dry,11,5-10-10,Cactus
+5.16,8,Dry,13,5-10-10,Cactus
+5.56,5,Dry,15,5-10-10,Cactus
+5.07,10,Dry,15,5-10-10,Cactus
+6.25,8,Dry,11,5-10-10,Cactus
+5.41,5,Dry,14,5-10-10,Cactus
+5.26,7,Dry,14,5-10-10,Cactus
+6.11,11,Dry,11,5-10-10,Cactus
+6.19,3,Dry,15,5-10-10,Cactus
+6.32,1,Dry,11,5-10-10,Cactus
+5.15,1,Dry,12,5-10-10,Cactus
+6.11,9,Dry,13,5-10-10,Cactus
+5.23,12,Dry,12,5-10-10,Cactus
+5.91,3,Dry,13,5-10-10,Cactus
+6.13,16,Dry,14,5-10-10,Cactus
+5.4,6,Dry,10,5-10-10,Cactus
+5.94,3,Dry,10,5-10-10,Cactus
+5.07,20,Dry,14,5-10-10,Cactus
+6.14,1,Dry,12,5-10-10,Cactus
+5.11,11,Dry,12,5-10-10,Cactus
+6.38,2,Dry,14,5-10-10,Cactus
+5.38,18,Dry,13,5-10-10,Cactus
+6.19,3,Dry,14,5-10-10,Cactus
+6.28,5,Dry,15,5-10-10,Cactus
+6.36,17,Dry,10,5-10-10,Cactus
+6.32,1,Dry,11,5-10-10,Cactus
+5.91,1,Dry,11,5-10-10,Cactus
+6.38,3,Dry,15,5-10-10,Cactus
+6.45,5,Dry,15,5-10-10,Cactus
+5.63,12,Dry,11,5-10-10,Cactus
+6.07,7,Dry,12,5-10-10,Cactus
+5.43,20,Dry,12,5-10-10,Cactus
+5.72,2,Dry,12,5-10-10,Cactus
+6.07,15,Dry,12,5-10-10,Cactus
+6.46,4,Dry,10,5-10-10,Cactus
+6.22,14,Dry,15,5-10-10,Cactus
+5.86,0,Dry,12,5-10-10,Cactus
+6.31,15,Dry,15,5-10-10,Cactus
+5.59,12,Dry,15,5-10-10,Cactus
+6.01,0,Dry,12,5-10-10,Cactus
+5.03,4,Dry,11,5-10-10,Cactus
+6.04,15,Dry,14,5-10-10,Cactus
+6.03,12,Dry,14,5-10-10,Cactus
+5.18,13,Dry,15,5-10-10,Cactus
+5.87,18,Dry,10,5-10-10,Cactus
+6.17,16,Dry,15,5-10-10,Cactus
+5.19,3,Dry,13,5-10-10,Cactus
+5.75,10,Dry,11,5-10-10,Cactus
+5.03,3,Dry,11,5-10-10,Cactus
+5.7,11,Dry,12,5-10-10,Cactus
+5.85,15,Dry,13,5-10-10,Cactus
+5.95,15,Dry,14,5-10-10,Cactus
+5.14,17,Dry,15,5-10-10,Cactus
+5.66,3,Dry,12,5-10-10,Cactus
+6.01,16,Dry,14,5-10-10,Cactus
+6.45,2,Dry,11,5-10-10,Cactus
+5.67,15,Dry,15,5-10-10,Cactus
+6.28,8,Dry,15,5-10-10,Cactus
+6.37,16,Dry,11,5-10-10,Cactus
+5.22,17,Dry,14,5-10-10,Cactus
+5.24,12,Dry,15,5-10-10,Cactus
+5.3,18,Dry,14,5-10-10,Cactus
+5.45,5,Dry,13,5-10-10,Cactus
+5.62,9,Dry,14,5-10-10,Cactus
+6.42,12,Dry,15,5-10-10,Cactus
+6.43,19,Dry,14,5-10-10,Cactus
+6.18,11,Dry,11,5-10-10,Cactus
+5.29,3,Dry,15,5-10-10,Cactus
+6.06,19,Dry,11,5-10-10,Cactus
+5.13,6,Dry,11,5-10-10,Cactus
+5.15,15,Dry,15,5-10-10,Cactus
+6.33,6,Dry,15,5-10-10,Cactus
+5.95,14,Dry,13,5-10-10,Cactus
+5.59,7,Dry,15,5-10-10,Cactus
+6.41,6,Dry,15,5-10-10,Cactus
+5.56,10,Dry,12,5-10-10,Cactus
+5.49,3,Dry,14,5-10-10,Cactus
+6.44,10,Dry,14,5-10-10,Cactus
+6.26,9,Dry,11,5-10-10,Cactus
+5.37,11,Dry,13,5-10-10,Cactus
+5.87,16,Dry,15,5-10-10,Cactus
+6.35,3,Dry,11,5-10-10,Cactus
+5.24,20,Dry,10,5-10-10,Cactus
+6.42,0,Dry,14,5-10-10,Cactus
+6.46,11,Dry,14,5-10-10,Cactus
+5.02,6,Dry,11,5-10-10,Cactus
+6.12,1,Dry,10,5-10-10,Cactus
+6.29,18,Dry,14,5-10-10,Cactus
+6.48,15,Dry,15,5-10-10,Cactus
+5.14,17,Dry,10,5-10-10,Cactus
+5.49,11,Dry,11,5-10-10,Cactus
+6.44,13,Dry,14,5-10-10,Cactus
+5.84,14,Dry,11,5-10-10,Cactus
+5.01,17,Dry,12,5-10-10,Cactus
+5.36,1,Dry,15,5-10-10,Cactus
+6.45,9,Dry,13,5-10-10,Cactus
+5.35,1,Dry,13,5-10-10,Cactus
+5.87,5,Dry,10,5-10-10,Cactus
+6.46,13,Dry,10,5-10-10,Cactus
+5.9,16,Dry,11,5-10-10,Cactus
+5.8,9,Dry,15,5-10-10,Cactus
+5.32,12,Dry,11,5-10-10,Cactus
+5.45,10,Dry,11,5-10-10,Cactus
+5.71,4,Dry,15,5-10-10,Cactus
+5.36,3,Dry,12,5-10-10,Cactus
+5.6,18,Dry,12,5-10-10,Cactus
+5.76,14,Dry,15,5-10-10,Cactus
+5.04,6,Dry,15,5-10-10,Cactus
+5.34,14,Dry,14,5-10-10,Cactus
+6.43,5,Dry,10,5-10-10,Cactus
+6.19,5,Dry,13,5-10-10,Cactus
+5.53,19,Dry,11,5-10-10,Cactus
+6.28,1,Dry,10,5-10-10,Cactus
+5.48,16,Dry,11,5-10-10,Cactus
+5.77,18,Dry,10,5-10-10,Cactus
+6.42,2,Dry,13,5-10-10,Cactus
+5.34,12,Dry,15,5-10-10,Cactus
+5.6,15,Dry,13,5-10-10,Cactus
+5.11,2,Dry,10,5-10-10,Cactus
+6.12,0,Dry,13,5-10-10,Cactus
+5.93,15,Dry,12,5-10-10,Cactus
+5.77,5,Dry,14,5-10-10,Cactus
+5.46,1,Dry,14,5-10-10,Cactus
+5.17,1,Dry,14,5-10-10,Cactus
+5.55,0,Dry,13,5-10-10,Cactus
+6.08,10,Dry,11,5-10-10,Cactus
+5.78,19,Dry,10,5-10-10,Cactus
+6.13,8,Dry,11,5-10-10,Cactus
+5.92,19,Dry,13,5-10-10,Cactus
+5.44,16,Dry,11,5-10-10,Cactus
+5.33,20,Dry,15,5-10-10,Cactus
+5.92,4,Dry,10,5-10-10,Cactus
+5.42,19,Dry,13,5-10-10,Cactus
+5.74,2,Dry,11,5-10-10,Cactus
+6.07,20,Dry,10,5-10-10,Cactus
+5.78,15,Dry,12,5-10-10,Cactus
+5.82,1,Dry,11,5-10-10,Cactus
+5.28,19,Dry,14,5-10-10,Cactus
+5.06,13,Dry,13,5-10-10,Cactus
+5.51,7,Dry,14,5-10-10,Cactus
+6.32,15,Dry,13,5-10-10,Cactus
+5.65,15,Dry,10,5-10-10,Cactus
+5.97,11,Dry,12,5-10-10,Cactus
+5.08,9,Dry,12,5-10-10,Cactus
+5.92,14,Dry,13,5-10-10,Cactus
+6.44,8,Dry,13,5-10-10,Cactus
+6.37,0,Dry,15,5-10-10,Cactus
+5.22,20,Dry,14,5-10-10,Cactus
+5.75,2,Dry,10,5-10-10,Cactus
+5.29,7,Dry,11,5-10-10,Cactus
+5.91,13,Dry,11,5-10-10,Cactus
+5.95,3,Dry,13,5-10-10,Cactus
+5.79,18,Dry,15,5-10-10,Cactus
+6.11,7,Dry,11,5-10-10,Cactus
+5.87,0,Dry,10,5-10-10,Cactus
+5.86,12,Dry,10,5-10-10,Cactus
+5.64,20,Dry,10,5-10-10,Cactus
+5.02,8,Dry,12,5-10-10,Cactus
+5.89,4,Dry,12,5-10-10,Cactus
+5.62,11,Dry,14,5-10-10,Cactus
+6.3,14,Dry,13,5-10-10,Cactus
+5.46,0,Dry,11,5-10-10,Cactus
+5.65,5,Dry,10,5-10-10,Cactus
+5.48,20,Dry,12,5-10-10,Cactus
+5.14,18,Dry,12,5-10-10,Cactus
+6.45,11,Dry,15,5-10-10,Cactus
+5.43,13,Dry,13,5-10-10,Cactus
+5.22,7,Dry,11,5-10-10,Cactus
+5.72,6,Dry,11,5-10-10,Cactus
+5.96,19,Dry,13,5-10-10,Cactus
+5.2,8,Dry,10,5-10-10,Cactus
+6.37,4,Dry,15,5-10-10,Cactus
+6.34,1,Dry,11,5-10-10,Cactus
+6.07,6,Dry,14,5-10-10,Cactus
+6.11,4,Dry,11,5-10-10,Cactus
+5.03,15,Dry,10,5-10-10,Cactus
+6.01,8,Dry,11,5-10-10,Cactus
+5.76,4,Dry,13,5-10-10,Cactus
+6.05,18,Dry,13,5-10-10,Cactus
+5.52,8,Dry,15,5-10-10,Cactus
+6.33,19,Dry,14,5-10-10,Cactus
+5.46,10,Dry,11,5-10-10,Cactus
+5.81,6,Dry,13,5-10-10,Cactus
+5.33,18,Dry,15,5-10-10,Cactus
+6.24,14,Dry,13,5-10-10,Cactus
+5.94,0,Dry,11,5-10-10,Cactus
+6.43,20,Dry,14,5-10-10,Cactus
+5.9,5,Dry,14,5-10-10,Cactus
+6.34,3,Dry,14,5-10-10,Cactus
+6.42,14,Dry,14,5-10-10,Cactus
+5.99,20,Dry,15,5-10-10,Cactus
+5.95,1,Dry,15,5-10-10,Cactus
+5.39,7,Dry,10,5-10-10,Cactus
+5.76,5,Dry,13,5-10-10,Cactus
+6.47,11,Dry,12,5-10-10,Cactus
+5.61,1,Dry,13,5-10-10,Cactus
+5.85,13,Dry,12,5-10-10,Cactus
+5.54,7,Dry,15,5-10-10,Cactus
+5.59,19,Dry,10,5-10-10,Cactus
+6.34,12,Dry,11,5-10-10,Cactus
+5.74,8,Dry,13,5-10-10,Cactus
+5.28,11,Dry,14,5-10-10,Cactus
+5.63,9,Dry,14,5-10-10,Cactus
+5.32,7,Dry,14,5-10-10,Cactus
+5.47,9,Dry,10,5-10-10,Cactus
+6.14,0,Dry,15,5-10-10,Cactus
+5.28,16,Dry,11,5-10-10,Cactus
+5.27,6,Dry,10,5-10-10,Cactus
+6.45,5,Dry,13,5-10-10,Cactus
+5.08,20,Dry,10,5-10-10,Cactus
+5.18,14,Dry,14,5-10-10,Cactus
+5.08,0,Dry,15,5-10-10,Cactus
+6.24,14,Dry,14,5-10-10,Cactus
+5.09,9,Dry,12,5-10-10,Cactus
+5.88,8,Dry,13,5-10-10,Cactus
+5.05,6,Dry,11,5-10-10,Cactus
+5.89,14,Dry,15,5-10-10,Cactus
+6.42,0,Dry,13,5-10-10,Cactus
+5.49,19,Dry,10,5-10-10,Cactus
+6.45,13,Dry,12,5-10-10,Cactus
+5.33,5,Dry,15,5-10-10,Cactus
+5.84,11,Dry,11,5-10-10,Cactus
+5.73,12,Dry,14,5-10-10,Cactus
+6.48,18,Dry,15,5-10-10,Cactus
+6.39,14,Dry,11,5-10-10,Cactus
+5.64,1,Dry,14,5-10-10,Cactus
+6.26,11,Dry,15,5-10-10,Cactus
+5.2,4,Dry,13,5-10-10,Cactus
+5.79,4,Dry,14,5-10-10,Cactus
+6.02,8,Dry,12,5-10-10,Cactus
+6.37,17,Dry,11,5-10-10,Cactus
+6.18,18,Dry,13,5-10-10,Cactus
+6.44,2,Dry,10,5-10-10,Cactus
+5.44,12,Dry,11,5-10-10,Cactus
+5.38,7,Dry,12,5-10-10,Cactus
+5.83,20,Dry,12,5-10-10,Cactus
+5.55,16,Dry,14,5-10-10,Cactus
+5.36,7,Dry,10,5-10-10,Cactus
+6.25,3,Dry,11,5-10-10,Cactus
+5.35,1,Dry,11,5-10-10,Cactus
+5.47,10,Dry,10,5-10-10,Cactus
+5.63,3,Dry,13,5-10-10,Cactus
+5.46,6,Dry,11,5-10-10,Cactus
+5.21,5,Dry,15,5-10-10,Cactus
+5.63,7,Dry,13,5-10-10,Cactus
+6.12,12,Dry,13,5-10-10,Cactus
+6.15,15,Dry,14,5-10-10,Cactus
+5.96,3,Dry,14,5-10-10,Cactus
+5.29,3,Dry,15,5-10-10,Cactus
+5.88,5,Dry,14,5-10-10,Cactus
+5.95,17,Dry,15,5-10-10,Cactus
+6.18,15,Dry,15,5-10-10,Cactus
+5.52,18,Dry,10,5-10-10,Cactus
+6.42,17,Dry,15,5-10-10,Cactus
+5.67,8,Dry,13,5-10-10,Cactus
+5.84,3,Dry,14,5-10-10,Cactus
+5.32,14,Dry,13,5-10-10,Cactus
+5.26,18,Dry,14,5-10-10,Cactus
+6.24,20,Dry,11,5-10-10,Cactus
+5.86,15,Dry,11,5-10-10,Cactus
+6.36,18,Dry,15,5-10-10,Cactus
+5.24,14,Dry,10,5-10-10,Cactus
+5.12,7,Dry,12,5-10-10,Cactus
+5.63,16,Dry,10,5-10-10,Cactus
+5.91,8,Dry,12,5-10-10,Cactus
+6,0,Dry,11,5-10-10,Cactus
+5.74,5,Dry,13,5-10-10,Cactus
+5.43,11,Dry,14,5-10-10,Cactus
+5.16,0,Dry,15,5-10-10,Cactus
+6.22,5,Dry,11,5-10-10,Cactus
+6.15,7,Dry,10,5-10-10,Cactus
+5.86,3,Dry,12,5-10-10,Cactus
+6.47,14,Dry,12,5-10-10,Cactus
+5.9,7,Dry,14,5-10-10,Cactus
+5.42,10,Dry,15,5-10-10,Cactus
+6.13,10,Dry,12,5-10-10,Cactus
+5.88,11,Dry,13,5-10-10,Cactus
+5.95,2,Dry,12,5-10-10,Cactus
+6.13,18,Dry,11,5-10-10,Cactus
+6.35,0,Dry,13,5-10-10,Cactus
+6.15,3,Dry,11,5-10-10,Cactus
+5.73,11,Dry,12,5-10-10,Cactus
+5.54,19,Dry,14,5-10-10,Cactus
+5.06,8,Dry,10,5-10-10,Cactus
+6.1,11,Dry,15,5-10-10,Cactus
+5.55,9,Dry,11,5-10-10,Cactus
+5.32,3,Dry,11,5-10-10,Cactus
+6.24,2,Dry,10,5-10-10,Cactus
+6.31,20,Dry,14,5-10-10,Cactus
+6.06,20,Dry,11,5-10-10,Cactus
+5.7,8,Dry,10,5-10-10,Cactus
+6.39,17,Dry,11,5-10-10,Cactus
+6.24,7,Dry,15,5-10-10,Cactus
+5.08,2,Dry,15,5-10-10,Cactus
+5.05,19,Dry,15,5-10-10,Cactus
+5.18,7,Dry,12,5-10-10,Cactus
+5.06,2,Dry,11,5-10-10,Cactus
+5.93,15,Dry,13,5-10-10,Cactus
+5.54,2,Dry,10,5-10-10,Cactus
+5.46,10,Dry,11,5-10-10,Cactus
+5.68,11,Dry,14,5-10-10,Cactus
+5.67,5,Dry,12,5-10-10,Cactus
+5.15,13,Dry,14,5-10-10,Cactus
+6.31,7,Dry,13,5-10-10,Cactus
+6.49,15,Dry,15,5-10-10,Cactus
+5,3,Dry,11,5-10-10,Cactus
+5.46,16,Dry,12,5-10-10,Cactus
+5.36,18,Dry,13,5-10-10,Cactus
+5.96,17,Dry,10,5-10-10,Cactus
+6.29,4,Dry,15,5-10-10,Cactus
+5.12,5,Dry,15,5-10-10,Cactus
+5.89,4,Dry,15,5-10-10,Cactus
+5.87,17,Dry,11,5-10-10,Cactus
+6.3,16,Dry,14,5-10-10,Cactus
+5.04,19,Dry,11,5-10-10,Cactus
+5.52,2,Dry,14,5-10-10,Cactus
+5.84,13,Dry,13,5-10-10,Cactus
+6.19,17,Dry,14,5-10-10,Cactus
+6,10,Dry,14,5-10-10,Cactus
+5.04,20,Dry,11,5-10-10,Cactus
+6.28,16,Dry,10,5-10-10,Cactus
+5.92,2,Dry,12,5-10-10,Cactus
+5.7,14,Dry,10,5-10-10,Cactus
+6.33,20,Dry,14,5-10-10,Cactus
+6.19,7,Dry,14,5-10-10,Cactus
+5.6,4,Dry,10,5-10-10,Cactus
+6.13,3,Dry,12,5-10-10,Cactus
+5.3,7,Dry,11,5-10-10,Cactus
+5.46,7,Dry,13,5-10-10,Cactus
+6.03,6,Dry,10,5-10-10,Cactus
+6.41,12,Dry,13,5-10-10,Cactus
+6.29,0,Dry,12,5-10-10,Cactus
+5.83,14,Dry,15,5-10-10,Cactus
+6.44,0,Dry,11,5-10-10,Cactus
+5.72,7,Dry,11,5-10-10,Cactus
+5.2,15,Dry,12,5-10-10,Cactus
+6.03,2,Dry,12,5-10-10,Cactus
+6.45,0,Dry,10,5-10-10,Cactus
+6.2,19,Dry,12,5-10-10,Cactus
+5.97,13,Dry,13,5-10-10,Cactus
+5.19,9,Dry,13,5-10-10,Cactus
+6.42,15,Dry,12,5-10-10,Cactus
+5.87,12,Dry,13,5-10-10,Cactus
+5.8,1,Dry,12,5-10-10,Cactus
+5.79,4,Dry,15,5-10-10,Cactus
+5.54,0,Dry,10,5-10-10,Cactus
+5.39,20,Dry,13,5-10-10,Cactus
+5.5,2,Dry,15,5-10-10,Cactus
+5.69,14,Dry,12,5-10-10,Cactus
+6.06,5,Dry,11,5-10-10,Cactus
+5.18,3,Dry,10,5-10-10,Cactus
+6.37,16,Dry,15,5-10-10,Cactus
+6.43,10,Dry,15,5-10-10,Cactus
+6.13,13,Dry,13,5-10-10,Cactus
+5.25,18,Dry,12,5-10-10,Cactus
+6.11,1,Dry,13,5-10-10,Cactus
+6.08,9,Dry,12,5-10-10,Cactus
+5.8,3,Dry,11,5-10-10,Cactus
+5.85,17,Dry,10,5-10-10,Cactus
+5.48,11,Dry,13,5-10-10,Cactus
+5.78,17,Dry,14,5-10-10,Cactus
+5.58,11,Dry,10,5-10-10,Cactus
+5.82,10,Dry,11,5-10-10,Cactus
+6.21,2,Dry,12,5-10-10,Cactus
+5.99,1,Dry,10,5-10-10,Cactus
+6.16,9,Dry,12,5-10-10,Cactus
+6.02,7,Dry,10,5-10-10,Cactus
+5.68,14,Dry,10,5-10-10,Cactus
+5.73,2,Dry,14,5-10-10,Cactus
+6.33,19,Dry,12,5-10-10,Cactus
+5.67,18,Dry,10,5-10-10,Cactus
+5.1,20,Dry,10,5-10-10,Cactus
+6.06,14,Dry,13,5-10-10,Cactus
+5.06,8,Dry,11,5-10-10,Cactus
+5.09,15,Dry,14,5-10-10,Cactus
+5.51,16,Dry,11,5-10-10,Cactus
+5.92,19,Dry,14,5-10-10,Cactus
+6.45,13,Dry,15,5-10-10,Cactus
+5.8,16,Dry,14,5-10-10,Cactus
+5.53,9,Dry,13,5-10-10,Cactus
+6.25,20,Dry,15,5-10-10,Cactus
+5.99,9,Dry,13,5-10-10,Cactus
+5.82,8,Dry,15,5-10-10,Cactus
+5.45,3,Dry,15,5-10-10,Cactus
+5.64,16,Dry,15,5-10-10,Cactus
+5.26,20,Dry,10,5-10-10,Cactus
+6.77,48,Sandy Loamy,26,9-3-13,Hibiscus
+6.69,54,Sandy Loamy,23,4-12,Hibiscus
+6.66,56,Sandy Loamy,21,10,Hibiscus
+6.67,60,Sandy Loamy,18,4-12,Hibiscus
+6.76,51,Sandy Loamy,18,9-3-13,Hibiscus
+6.72,59,Sandy Loamy,20,9-3-13,Hibiscus
+6.75,45,Loamy,28,4-12,Hibiscus
+6.73,45,Sandy Loamy,15,4-12,Hibiscus
+6.51,54,Loamy,17,10,Hibiscus
+6.75,53,Loamy,26,10,Hibiscus
+6.61,45,Loamy,28,4-12,Hibiscus
+6.61,56,Loamy,23,10,Hibiscus
+6.65,52,Loamy,30,12-4-18,Hibiscus
+6.66,58,Loamy,18,10,Hibiscus
+6.6,53,Loamy,16,4-12,Hibiscus
+6.51,52,Sandy Loamy,15,12-4-18,Hibiscus
+6.51,48,Loamy,25,12-4-18,Hibiscus
+6.63,59,Loamy,17,12-4-18,Hibiscus
+6.79,46,Loamy,27,10,Hibiscus
+6.77,56,Sandy Loamy,18,9-3-13,Hibiscus
+6.52,49,Loamy,21,9-3-13,Hibiscus
+6.53,47,Loamy,15,9-3-13,Hibiscus
+6.7,47,Loamy,17,10,Hibiscus
+6.79,57,Loamy,17,12-4-18,Hibiscus
+6.51,49,Loamy,22,12-4-18,Hibiscus
+6.52,59,Sandy Loamy,20,12-4-18,Hibiscus
+6.77,47,Loamy,26,9-3-13,Hibiscus
+6.6,57,Sandy Loamy,20,9-3-13,Hibiscus
+6.64,49,Sandy Loamy,16,10,Hibiscus
+6.77,51,Sandy Loamy,17,9-3-13,Hibiscus
+6.75,46,Sandy Loamy,19,12-4-18,Hibiscus
+6.77,60,Loamy,17,10,Hibiscus
+6.62,50,Sandy Loamy,21,12-4-18,Hibiscus
+6.55,56,Loamy,29,12-4-18,Hibiscus
+6.75,56,Loamy,19,12-4-18,Hibiscus
+6.64,51,Loamy,19,9-3-13,Hibiscus
+6.61,52,Sandy Loamy,28,4-12,Hibiscus
+6.61,49,Sandy Loamy,22,4-12,Hibiscus
+6.69,56,Sandy Loamy,26,10,Hibiscus
+6.66,57,Sandy Loamy,19,12-4-18,Hibiscus
+6.57,51,Sandy Loamy,22,9-3-13,Hibiscus
+6.51,56,Loamy,20,9-3-13,Hibiscus
+6.67,50,Sandy Loamy,29,9-3-13,Hibiscus
+6.57,56,Sandy Loamy,24,12-4-18,Hibiscus
+6.75,57,Sandy Loamy,17,10,Hibiscus
+6.66,56,Loamy,18,10,Hibiscus
+6.56,51,Loamy,19,4-12,Hibiscus
+6.76,49,Sandy Loamy,27,4-12,Hibiscus
+6.77,59,Sandy Loamy,29,9-3-13,Hibiscus
+6.75,58,Loamy,28,12-4-18,Hibiscus
+6.64,46,Sandy Loamy,15,4-12,Hibiscus
+6.58,59,Sandy Loamy,25,10,Hibiscus
+6.64,52,Sandy Loamy,16,4-12,Hibiscus
+6.62,49,Sandy Loamy,16,12-4-18,Hibiscus
+6.57,59,Loamy,15,4-12,Hibiscus
+6.74,45,Sandy Loamy,22,12-4-18,Hibiscus
+6.62,45,Sandy Loamy,29,9-3-13,Hibiscus
+6.58,58,Sandy Loamy,16,10,Hibiscus
+6.67,54,Sandy Loamy,23,4-12,Hibiscus
+6.56,46,Sandy Loamy,20,4-12,Hibiscus
+6.75,58,Loamy,15,4-12,Hibiscus
+6.51,45,Sandy Loamy,18,10,Hibiscus
+6.64,57,Sandy Loamy,16,12-4-18,Hibiscus
+6.5,57,Sandy Loamy,20,9-3-13,Hibiscus
+6.53,52,Loamy,20,12-4-18,Hibiscus
+6.66,55,Loamy,22,9-3-13,Hibiscus
+6.52,57,Sandy Loamy,27,10,Hibiscus
+6.65,45,Sandy Loamy,25,10,Hibiscus
+6.77,49,Sandy Loamy,27,9-3-13,Hibiscus
+6.74,46,Loamy,22,10,Hibiscus
+6.77,50,Sandy Loamy,23,10,Hibiscus
+6.75,56,Loamy,24,10,Hibiscus
+6.65,57,Sandy Loamy,23,10,Hibiscus
+6.8,56,Sandy Loamy,27,9-3-13,Hibiscus
+6.53,58,Loamy,29,4-12,Hibiscus
+6.57,53,Sandy Loamy,22,9-3-13,Hibiscus
+6.57,55,Sandy Loamy,16,9-3-13,Hibiscus
+6.66,49,Loamy,20,10,Hibiscus
+6.72,55,Loamy,23,4-12,Hibiscus
+6.67,59,Sandy Loamy,27,4-12,Hibiscus
+6.66,47,Loamy,20,10,Hibiscus
+6.76,49,Sandy Loamy,20,9-3-13,Hibiscus
+6.65,58,Loamy,16,10,Hibiscus
+6.61,46,Loamy,24,10,Hibiscus
+6.76,57,Loamy,27,12-4-18,Hibiscus
+6.55,48,Sandy Loamy,28,4-12,Hibiscus
+6.51,50,Sandy Loamy,20,10,Hibiscus
+6.67,51,Loamy,25,10,Hibiscus
+6.71,46,Loamy,16,9-3-13,Hibiscus
+6.73,59,Loamy,19,12-4-18,Hibiscus
+6.56,54,Loamy,25,10,Hibiscus
+6.62,57,Loamy,20,4-12,Hibiscus
+6.63,49,Sandy Loamy,28,12-4-18,Hibiscus
+6.78,58,Loamy,27,9-3-13,Hibiscus
+6.79,48,Loamy,30,4-12,Hibiscus
+6.72,56,Sandy Loamy,28,9-3-13,Hibiscus
+6.56,56,Loamy,19,4-12,Hibiscus
+6.64,52,Sandy Loamy,21,10,Hibiscus
+6.7,49,Loamy,23,4-12,Hibiscus
+6.76,48,Loamy,21,9-3-13,Hibiscus
+6.53,55,Loamy,29,10,Hibiscus
+6.73,59,Sandy Loamy,26,4-12,Hibiscus
+6.53,56,Loamy,21,12-4-18,Hibiscus
+6.5,50,Loamy,23,9-3-13,Hibiscus
+6.78,57,Sandy Loamy,16,9-3-13,Hibiscus
+6.69,47,Sandy Loamy,16,10,Hibiscus
+6.51,49,Sandy Loamy,15,9-3-13,Hibiscus
+6.57,52,Sandy Loamy,22,4-12,Hibiscus
+6.65,53,Loamy,17,10,Hibiscus
+6.64,47,Loamy,26,10,Hibiscus
+6.65,54,Loamy,25,9-3-13,Hibiscus
+6.52,60,Sandy Loamy,30,12-4-18,Hibiscus
+6.68,53,Sandy Loamy,30,9-3-13,Hibiscus
+6.62,50,Loamy,20,9-3-13,Hibiscus
+6.57,56,Sandy Loamy,30,12-4-18,Hibiscus
+6.7,45,Loamy,19,12-4-18,Hibiscus
+6.69,59,Sandy Loamy,26,10,Hibiscus
+6.57,45,Loamy,24,9-3-13,Hibiscus
+6.8,45,Sandy Loamy,23,12-4-18,Hibiscus
+6.65,52,Loamy,18,9-3-13,Hibiscus
+6.54,57,Sandy Loamy,30,4-12,Hibiscus
+6.62,59,Sandy Loamy,21,12-4-18,Hibiscus
+6.62,60,Sandy Loamy,23,9-3-13,Hibiscus
+6.64,49,Loamy,29,10,Hibiscus
+6.55,45,Loamy,20,12-4-18,Hibiscus
+6.57,50,Sandy Loamy,16,4-12,Hibiscus
+6.67,47,Loamy,21,9-3-13,Hibiscus
+6.76,53,Loamy,26,12-4-18,Hibiscus
+6.51,59,Sandy Loamy,30,4-12,Hibiscus
+6.65,49,Sandy Loamy,23,10,Hibiscus
+6.77,48,Loamy,27,4-12,Hibiscus
+6.56,58,Sandy Loamy,17,4-12,Hibiscus
+6.54,45,Sandy Loamy,27,9-3-13,Hibiscus
+6.66,51,Loamy,19,10,Hibiscus
+6.53,58,Loamy,17,9-3-13,Hibiscus
+6.61,54,Sandy Loamy,16,10,Hibiscus
+6.61,55,Loamy,16,4-12,Hibiscus
+6.67,52,Loamy,29,12-4-18,Hibiscus
+6.79,58,Sandy Loamy,22,9-3-13,Hibiscus
+6.65,60,Sandy Loamy,16,9-3-13,Hibiscus
+6.53,55,Sandy Loamy,27,10,Hibiscus
+6.66,50,Loamy,16,10,Hibiscus
+6.56,52,Loamy,25,10,Hibiscus
+6.79,52,Sandy Loamy,20,4-12,Hibiscus
+6.66,47,Loamy,18,4-12,Hibiscus
+6.79,51,Loamy,22,9-3-13,Hibiscus
+6.64,46,Loamy,19,10,Hibiscus
+6.75,54,Sandy Loamy,24,10,Hibiscus
+6.53,47,Loamy,25,4-12,Hibiscus
+6.69,60,Sandy Loamy,24,4-12,Hibiscus
+6.79,54,Sandy Loamy,16,9-3-13,Hibiscus
+6.78,45,Sandy Loamy,24,10,Hibiscus
+6.68,59,Sandy Loamy,21,4-12,Hibiscus
+6.66,50,Loamy,18,10,Hibiscus
+6.78,53,Sandy Loamy,19,12-4-18,Hibiscus
+6.7,47,Sandy Loamy,29,9-3-13,Hibiscus
+6.68,54,Loamy,29,9-3-13,Hibiscus
+6.72,54,Sandy Loamy,29,9-3-13,Hibiscus
+6.6,51,Loamy,19,12-4-18,Hibiscus
+6.51,49,Loamy,17,9-3-13,Hibiscus
+6.6,47,Loamy,22,4-12,Hibiscus
+6.56,59,Loamy,26,10,Hibiscus
+6.62,53,Sandy Loamy,24,10,Hibiscus
+6.55,57,Sandy Loamy,16,10,Hibiscus
+6.65,57,Sandy Loamy,17,4-12,Hibiscus
+6.67,53,Sandy Loamy,21,9-3-13,Hibiscus
+6.64,59,Loamy,24,9-3-13,Hibiscus
+6.59,54,Loamy,21,12-4-18,Hibiscus
+6.64,56,Sandy Loamy,30,10,Hibiscus
+6.58,47,Sandy Loamy,23,12-4-18,Hibiscus
+6.64,56,Loamy,26,9-3-13,Hibiscus
+6.76,55,Loamy,25,9-3-13,Hibiscus
+6.73,52,Loamy,19,10,Hibiscus
+6.76,51,Sandy Loamy,29,12-4-18,Hibiscus
+6.78,60,Loamy,15,9-3-13,Hibiscus
+6.54,60,Sandy Loamy,16,12-4-18,Hibiscus
+6.52,56,Sandy Loamy,25,10,Hibiscus
+6.7,47,Loamy,28,12-4-18,Hibiscus
+6.51,54,Loamy,21,9-3-13,Hibiscus
+6.77,51,Sandy Loamy,22,4-12,Hibiscus
+6.8,56,Loamy,15,10,Hibiscus
+6.67,56,Sandy Loamy,25,10,Hibiscus
+6.71,46,Sandy Loamy,20,9-3-13,Hibiscus
+6.68,55,Sandy Loamy,17,12-4-18,Hibiscus
+6.58,55,Sandy Loamy,22,12-4-18,Hibiscus
+6.65,51,Sandy Loamy,16,12-4-18,Hibiscus
+6.71,56,Loamy,18,10,Hibiscus
+6.77,58,Sandy Loamy,16,9-3-13,Hibiscus
+6.62,45,Loamy,24,4-12,Hibiscus
+6.75,60,Loamy,28,4-12,Hibiscus
+6.51,55,Sandy Loamy,16,12-4-18,Hibiscus
+6.52,59,Sandy Loamy,29,9-3-13,Hibiscus
+6.54,46,Sandy Loamy,15,10,Hibiscus
+6.78,47,Loamy,26,12-4-18,Hibiscus
+6.58,56,Sandy Loamy,27,12-4-18,Hibiscus
+6.61,60,Loamy,16,10,Hibiscus
+6.76,48,Sandy Loamy,20,12-4-18,Hibiscus
+6.76,58,Loamy,23,12-4-18,Hibiscus
+6.73,47,Loamy,15,12-4-18,Hibiscus
+6.75,49,Loamy,18,9-3-13,Hibiscus
+6.76,49,Loamy,22,4-12,Hibiscus
+6.53,56,Sandy Loamy,22,10,Hibiscus
+6.58,51,Loamy,20,10,Hibiscus
+6.79,46,Sandy Loamy,19,10,Hibiscus
+6.65,59,Sandy Loamy,29,4-12,Hibiscus
+6.6,46,Loamy,25,4-12,Hibiscus
+6.78,58,Loamy,20,9-3-13,Hibiscus
+6.65,59,Loamy,21,12-4-18,Hibiscus
+6.74,50,Loamy,18,12-4-18,Hibiscus
+6.63,51,Loamy,27,9-3-13,Hibiscus
+6.54,59,Sandy Loamy,16,9-3-13,Hibiscus
+6.62,45,Sandy Loamy,28,9-3-13,Hibiscus
+6.51,56,Sandy Loamy,29,4-12,Hibiscus
+6.62,60,Loamy,30,4-12,Hibiscus
+6.71,48,Loamy,17,9-3-13,Hibiscus
+6.55,46,Sandy Loamy,21,9-3-13,Hibiscus
+6.53,45,Loamy,29,4-12,Hibiscus
+6.61,57,Sandy Loamy,18,4-12,Hibiscus
+6.67,48,Sandy Loamy,30,12-4-18,Hibiscus
+6.5,60,Loamy,22,4-12,Hibiscus
+6.55,58,Sandy Loamy,16,10,Hibiscus
+6.74,56,Sandy Loamy,29,12-4-18,Hibiscus
+6.58,49,Sandy Loamy,22,4-12,Hibiscus
+6.52,58,Loamy,16,4-12,Hibiscus
+6.52,51,Loamy,15,4-12,Hibiscus
+6.63,46,Sandy Loamy,17,10,Hibiscus
+6.67,51,Sandy Loamy,29,4-12,Hibiscus
+6.7,55,Sandy Loamy,27,4-12,Hibiscus
+6.72,47,Sandy Loamy,16,10,Hibiscus
+6.72,45,Sandy Loamy,16,12-4-18,Hibiscus
+6.62,47,Sandy Loamy,27,12-4-18,Hibiscus
+6.57,47,Sandy Loamy,27,4-12,Hibiscus
+6.65,57,Sandy Loamy,17,12-4-18,Hibiscus
+6.56,58,Sandy Loamy,16,9-3-13,Hibiscus
+6.78,47,Sandy Loamy,24,10,Hibiscus
+6.61,45,Sandy Loamy,30,9-3-13,Hibiscus
+6.79,47,Sandy Loamy,28,12-4-18,Hibiscus
+6.57,56,Loamy,21,9-3-13,Hibiscus
+6.77,46,Sandy Loamy,23,10,Hibiscus
+6.59,60,Sandy Loamy,25,4-12,Hibiscus
+6.68,50,Sandy Loamy,26,4-12,Hibiscus
+6.63,50,Sandy Loamy,25,10,Hibiscus
+6.74,47,Sandy Loamy,22,10,Hibiscus
+6.63,58,Sandy Loamy,27,12-4-18,Hibiscus
+6.75,48,Sandy Loamy,17,4-12,Hibiscus
+6.79,58,Sandy Loamy,29,12-4-18,Hibiscus
+6.64,51,Loamy,19,9-3-13,Hibiscus
+6.69,60,Loamy,16,9-3-13,Hibiscus
+6.6,59,Sandy Loamy,20,9-3-13,Hibiscus
+6.57,51,Loamy,19,9-3-13,Hibiscus
+6.78,60,Loamy,17,12-4-18,Hibiscus
+6.67,49,Sandy Loamy,29,9-3-13,Hibiscus
+6.77,52,Sandy Loamy,17,10,Hibiscus
+6.58,54,Loamy,30,10,Hibiscus
+6.6,46,Loamy,30,9-3-13,Hibiscus
+6.77,47,Sandy Loamy,26,10,Hibiscus
+6.62,53,Loamy,15,9-3-13,Hibiscus
+6.58,52,Sandy Loamy,18,9-3-13,Hibiscus
+6.79,53,Loamy,17,12-4-18,Hibiscus
+6.72,52,Sandy Loamy,29,12-4-18,Hibiscus
+6.64,59,Sandy Loamy,24,12-4-18,Hibiscus
+6.54,47,Loamy,23,9-3-13,Hibiscus
+6.68,46,Loamy,28,9-3-13,Hibiscus
+6.74,45,Loamy,30,4-12,Hibiscus
+6.54,60,Sandy Loamy,16,12-4-18,Hibiscus
+6.73,46,Loamy,16,9-3-13,Hibiscus
+6.8,45,Loamy,18,10,Hibiscus
+6.73,47,Sandy Loamy,30,9-3-13,Hibiscus
+6.68,51,Loamy,26,10,Hibiscus
+6.76,46,Loamy,21,4-12,Hibiscus
+6.72,58,Loamy,20,10,Hibiscus
+6.5,53,Loamy,24,12-4-18,Hibiscus
+6.67,57,Loamy,16,4-12,Hibiscus
+6.54,47,Loamy,30,9-3-13,Hibiscus
+6.72,45,Sandy Loamy,24,12-4-18,Hibiscus
+6.74,55,Loamy,16,12-4-18,Hibiscus
+6.56,50,Loamy,22,10,Hibiscus
+6.66,56,Sandy Loamy,27,10,Hibiscus
+6.59,57,Sandy Loamy,21,12-4-18,Hibiscus
+6.74,45,Sandy Loamy,22,4-12,Hibiscus
+6.76,49,Sandy Loamy,29,9-3-13,Hibiscus
+6.65,50,Sandy Loamy,23,9-3-13,Hibiscus
+6.56,59,Loamy,15,9-3-13,Hibiscus
+6.71,46,Sandy Loamy,29,12-4-18,Hibiscus
+6.58,59,Loamy,26,4-12,Hibiscus
+6.53,53,Loamy,29,9-3-13,Hibiscus
+6.7,45,Loamy,20,10,Hibiscus
+6.59,53,Sandy Loamy,25,4-12,Hibiscus
+6.64,49,Sandy Loamy,27,9-3-13,Hibiscus
+6.66,49,Sandy Loamy,30,4-12,Hibiscus
+6.52,46,Sandy Loamy,22,10,Hibiscus
+6.56,55,Sandy Loamy,24,4-12,Hibiscus
+6.8,48,Sandy Loamy,25,12-4-18,Hibiscus
+6.62,52,Sandy Loamy,18,12-4-18,Hibiscus
+6.75,60,Loamy,18,4-12,Hibiscus
+6.6,50,Sandy Loamy,24,12-4-18,Hibiscus
+6.69,53,Loamy,29,4-12,Hibiscus
+6.79,56,Sandy Loamy,22,12-4-18,Hibiscus
+6.63,45,Loamy,17,4-12,Hibiscus
+6.71,46,Loamy,23,10,Hibiscus
+6.63,48,Sandy Loamy,17,4-12,Hibiscus
+6.72,51,Loamy,26,9-3-13,Hibiscus
+6.59,57,Sandy Loamy,24,4-12,Hibiscus
+6.58,45,Sandy Loamy,25,10,Hibiscus
+6.76,58,Loamy,18,12-4-18,Hibiscus
+6.56,46,Sandy Loamy,21,10,Hibiscus
+6.67,54,Loamy,16,12-4-18,Hibiscus
+6.61,46,Loamy,18,12-4-18,Hibiscus
+6.67,48,Sandy Loamy,29,9-3-13,Hibiscus
+6.63,54,Loamy,20,12-4-18,Hibiscus
+6.55,45,Loamy,15,9-3-13,Hibiscus
+6.72,54,Sandy Loamy,26,4-12,Hibiscus
+6.65,52,Sandy Loamy,24,10,Hibiscus
+6.59,47,Sandy Loamy,22,9-3-13,Hibiscus
+6.69,49,Sandy Loamy,26,12-4-18,Hibiscus
+6.69,50,Sandy Loamy,28,10,Hibiscus
+6.72,56,Sandy Loamy,17,12-4-18,Hibiscus
+6.77,54,Loamy,26,10,Hibiscus
+6.62,45,Loamy,29,9-3-13,Hibiscus
+6.76,48,Loamy,15,10,Hibiscus
+6.75,52,Loamy,25,12-4-18,Hibiscus
+6.76,60,Sandy Loamy,16,10,Hibiscus
+6.68,53,Loamy,24,9-3-13,Hibiscus
+6.55,47,Loamy,20,12-4-18,Hibiscus
+6.57,56,Sandy Loamy,22,12-4-18,Hibiscus
+6.74,55,Sandy Loamy,26,10,Hibiscus
+6.78,48,Sandy Loamy,21,4-12,Hibiscus
+6.63,52,Loamy,26,4-12,Hibiscus
+6.78,57,Loamy,20,9-3-13,Hibiscus
+6.54,47,Loamy,25,9-3-13,Hibiscus
+6.57,58,Loamy,29,4-12,Hibiscus
+6.75,57,Loamy,28,9-3-13,Hibiscus
+6.73,48,Loamy,28,4-12,Hibiscus
+6.52,54,Sandy Loamy,23,12-4-18,Hibiscus
+6.67,58,Sandy Loamy,19,10,Hibiscus
+6.71,47,Loamy,15,4-12,Hibiscus
+6.52,59,Sandy Loamy,15,10,Hibiscus
+6.51,58,Loamy,27,12-4-18,Hibiscus
+6.76,58,Sandy Loamy,23,12-4-18,Hibiscus
+6.76,56,Loamy,24,12-4-18,Hibiscus
+6.69,50,Sandy Loamy,24,10,Hibiscus
+6.63,47,Sandy Loamy,26,4-12,Hibiscus
+6.75,52,Sandy Loamy,30,4-12,Hibiscus
+6.55,48,Sandy Loamy,20,9-3-13,Hibiscus
+6.66,54,Loamy,16,4-12,Hibiscus
+6.64,58,Sandy Loamy,27,4-12,Hibiscus
+6.78,50,Sandy Loamy,20,12-4-18,Hibiscus
+6.63,58,Loamy,26,9-3-13,Hibiscus
+6.68,47,Loamy,22,12-4-18,Hibiscus
+6.79,45,Sandy Loamy,20,10,Hibiscus
+6.51,59,Loamy,23,9-3-13,Hibiscus
+6.5,54,Sandy Loamy,27,4-12,Hibiscus
+6.64,57,Loamy,26,10,Hibiscus
+6.74,58,Loamy,15,9-3-13,Hibiscus
+6.72,57,Loamy,19,9-3-13,Hibiscus
+6.78,53,Loamy,26,9-3-13,Hibiscus
+6.67,46,Loamy,20,12-4-18,Hibiscus
+6.72,50,Sandy Loamy,24,10,Hibiscus
+6.69,50,Loamy,16,9-3-13,Hibiscus
+6.62,48,Loamy,20,10,Hibiscus
+6.63,45,Loamy,25,9-3-13,Hibiscus
+6.64,55,Sandy Loamy,29,9-3-13,Hibiscus
+6.61,60,Loamy,26,4-12,Hibiscus
+6.58,60,Loamy,19,4-12,Hibiscus
+6.69,49,Loamy,20,4-12,Hibiscus
+6.5,53,Loamy,29,12-4-18,Hibiscus
+6.58,52,Loamy,22,10,Hibiscus
+6.63,53,Sandy Loamy,29,9-3-13,Hibiscus
+6.71,58,Sandy Loamy,18,10,Hibiscus
+6.67,46,Loamy,18,4-12,Hibiscus
+6.54,54,Sandy Loamy,18,4-12,Hibiscus
+6.54,51,Loamy,23,4-12,Hibiscus
+6.64,49,Loamy,19,12-4-18,Hibiscus
+6.77,58,Sandy Loamy,19,12-4-18,Hibiscus
+6.64,60,Sandy Loamy,27,9-3-13,Hibiscus
+6.61,49,Sandy Loamy,20,9-3-13,Hibiscus
+6.71,60,Sandy Loamy,23,10,Hibiscus
+6.65,54,Sandy Loamy,18,12-4-18,Hibiscus
+6.61,45,Loamy,16,9-3-13,Hibiscus
+6.71,50,Sandy Loamy,20,10,Hibiscus
+6.68,57,Loamy,28,12-4-18,Hibiscus
+6.53,49,Loamy,20,12-4-18,Hibiscus
+6.63,45,Sandy Loamy,22,10,Hibiscus
+6.77,51,Loamy,25,4-12,Hibiscus
+6.76,47,Loamy,25,12-4-18,Hibiscus
+6.53,49,Sandy Loamy,25,9-3-13,Hibiscus
+6.7,48,Sandy Loamy,22,9-3-13,Hibiscus
+6.79,57,Sandy Loamy,18,9-3-13,Hibiscus
+6.55,56,Loamy,23,10,Hibiscus
+6.5,55,Sandy Loamy,20,9-3-13,Hibiscus
+6.8,45,Sandy Loamy,15,12-4-18,Hibiscus
+6.76,58,Sandy Loamy,20,12-4-18,Hibiscus
+6.66,47,Sandy Loamy,27,4-12,Hibiscus
+6.71,56,Sandy Loamy,26,9-3-13,Hibiscus
+6.56,49,Sandy Loamy,29,10,Hibiscus
+6.79,54,Sandy Loamy,21,10,Hibiscus
+6.6,57,Loamy,16,9-3-13,Hibiscus
+6.51,53,Sandy Loamy,26,9-3-13,Hibiscus
+6.66,50,Loamy,28,12-4-18,Hibiscus
+6.59,56,Sandy Loamy,21,9-3-13,Hibiscus
+6.74,53,Sandy Loamy,30,10,Hibiscus
+6.58,56,Sandy Loamy,25,4-12,Hibiscus
+6.57,52,Loamy,27,12-4-18,Hibiscus
+6.51,51,Loamy,25,10,Hibiscus
+6.65,59,Sandy Loamy,15,4-12,Hibiscus
+6.65,48,Sandy Loamy,17,12-4-18,Hibiscus
+6.53,55,Loamy,27,4-12,Hibiscus
+6.59,59,Loamy,15,12-4-18,Hibiscus
+6.7,59,Loamy,17,4-12,Hibiscus
+6.73,54,Loamy,23,12-4-18,Hibiscus
+6.73,57,Loamy,29,10,Hibiscus
+6.59,57,Loamy,28,12-4-18,Hibiscus
+6.51,51,Loamy,24,9-3-13,Hibiscus
+6.69,50,Loamy,22,12-4-18,Hibiscus
+6.56,53,Loamy,23,9-3-13,Hibiscus
+6.53,59,Sandy Loamy,26,4-12,Hibiscus
+6.72,55,Loamy,30,10,Hibiscus
+6.73,47,Sandy Loamy,29,9-3-13,Hibiscus
+6.59,55,Loamy,18,4-12,Hibiscus
+6.63,47,Sandy Loamy,15,9-3-13,Hibiscus
+6.55,48,Loamy,23,4-12,Hibiscus
+6.51,53,Sandy Loamy,16,12-4-18,Hibiscus
+6.71,47,Loamy,17,4-12,Hibiscus
+6.63,47,Loamy,26,4-12,Hibiscus
+6.65,48,Loamy,30,9-3-13,Hibiscus
+6.67,47,Loamy,29,10,Hibiscus
+6.67,58,Sandy Loamy,23,12-4-18,Hibiscus
+6.52,48,Sandy Loamy,24,12-4-18,Hibiscus
+6.68,49,Sandy Loamy,16,10,Hibiscus
+6.61,45,Sandy Loamy,16,9-3-13,Hibiscus
+6.53,52,Sandy Loamy,28,9-3-13,Hibiscus
+6.59,45,Loamy,15,12-4-18,Hibiscus
+6.56,56,Sandy Loamy,16,10,Hibiscus
+6.61,57,Sandy Loamy,29,10,Hibiscus
+6.53,56,Sandy Loamy,27,4-12,Hibiscus
+6.6,57,Sandy Loamy,22,12-4-18,Hibiscus
+6.7,52,Sandy Loamy,16,9-3-13,Hibiscus
+6.58,50,Loamy,24,4-12,Hibiscus
+6.65,52,Loamy,25,9-3-13,Hibiscus
+6.61,49,Loamy,30,12-4-18,Hibiscus
+6.63,52,Loamy,26,12-4-18,Hibiscus
+6.54,45,Sandy Loamy,24,4-12,Hibiscus
+6.6,52,Loamy,29,12-4-18,Hibiscus
+6.74,53,Sandy Loamy,27,10,Hibiscus
+6.68,57,Sandy Loamy,18,9-3-13,Hibiscus
+6.51,47,Sandy Loamy,20,4-12,Hibiscus
+6.51,52,Sandy Loamy,30,10,Hibiscus
+6.51,47,Sandy Loamy,29,10,Hibiscus
+6.61,45,Sandy Loamy,24,9-3-13,Hibiscus
+6.76,57,Sandy Loamy,22,10,Hibiscus
+6.58,48,Loamy,24,9-3-13,Hibiscus
+6.66,59,Loamy,19,12-4-18,Hibiscus
+6.51,57,Loamy,27,12-4-18,Hibiscus
+6.75,54,Loamy,24,4-12,Hibiscus
+6.58,49,Sandy Loamy,24,12-4-18,Hibiscus
+6.74,60,Sandy Loamy,25,9-3-13,Hibiscus
+6.7,58,Loamy,28,12-4-18,Hibiscus
+6.51,47,Sandy Loamy,15,4-12,Hibiscus
+6.78,50,Loamy,29,9-3-13,Hibiscus
+6.54,54,Loamy,25,4-12,Hibiscus
+6.52,58,Loamy,29,4-12,Hibiscus
+6.71,56,Sandy Loamy,24,9-3-13,Hibiscus
+6.58,50,Sandy Loamy,19,9-3-13,Hibiscus
+6.64,48,Sandy Loamy,24,9-3-13,Hibiscus
+6.65,60,Loamy,20,9-3-13,Hibiscus
+6.78,58,Loamy,17,12-4-18,Hibiscus
+6.59,47,Sandy Loamy,27,4-12,Hibiscus
+6.75,45,Sandy Loamy,29,12-4-18,Hibiscus
+6.68,46,Loamy,29,4-12,Hibiscus
+6.73,59,Loamy,27,9-3-13,Hibiscus
+6.5,48,Sandy Loamy,26,12-4-18,Hibiscus
+6.58,54,Sandy Loamy,27,10,Hibiscus
+6.67,58,Loamy,25,4-12,Hibiscus
+6.59,51,Sandy Loamy,29,4-12,Hibiscus
+6.78,58,Sandy Loamy,18,4-12,Hibiscus
+6.66,53,Sandy Loamy,28,4-12,Hibiscus
+6.59,50,Sandy Loamy,20,12-4-18,Hibiscus
+6.67,48,Sandy Loamy,19,9-3-13,Hibiscus
+6.65,53,Sandy Loamy,25,12-4-18,Hibiscus
+6.8,51,Loamy,23,4-12,Hibiscus
+6.55,53,Sandy Loamy,15,12-4-18,Hibiscus
+6.57,49,Sandy Loamy,27,4-12,Hibiscus
+6.79,53,Loamy,28,9-3-13,Hibiscus
+6.64,56,Loamy,29,4-12,Hibiscus
+6.6,60,Sandy Loamy,24,10,Hibiscus
+6.65,48,Loamy,24,10,Hibiscus
+6.51,45,Sandy Loamy,15,4-12,Hibiscus
+6.79,58,Sandy Loamy,25,12-4-18,Hibiscus
+6.67,47,Sandy Loamy,23,10,Hibiscus
+6.6,48,Loamy,16,9-3-13,Hibiscus
+6.53,59,Loamy,19,9-3-13,Hibiscus
+6.68,60,Sandy Loamy,17,4-12,Hibiscus
+6.51,51,Loamy,19,10,Hibiscus
+6.67,51,Sandy Loamy,25,12-4-18,Hibiscus
+6.62,53,Sandy Loamy,30,9-3-13,Hibiscus
+6.67,51,Sandy Loamy,25,12-4-18,Hibiscus
+6.77,49,Sandy Loamy,28,9-3-13,Hibiscus
+6.71,58,Loamy,21,12-4-18,Hibiscus
+6.73,46,Sandy Loamy,30,4-12,Hibiscus
+6.78,46,Loamy,30,4-12,Hibiscus
